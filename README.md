@@ -10,3 +10,6 @@
 
 ## Image & Visual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
+
+## CNN
+* Imagenet classification with deep convolutional neural networks : [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/6)
