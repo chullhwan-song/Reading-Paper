@@ -4,6 +4,7 @@
 ## Image Retrieval & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
 * NetVLAD: CNN architecture for weakly supervised place recognition : [[paper]](https://arxiv.org/abs/1511.07247)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/3)
+* Learning visual similarity for product design with convolutional neural networks : [[paper]](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/7) 
 
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
