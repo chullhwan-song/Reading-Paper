@@ -1,3 +1,6 @@
+## Generative Adversarial Nets
+* Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
+
 ## Localization
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
 
