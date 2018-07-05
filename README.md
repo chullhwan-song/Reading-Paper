@@ -1,4 +1,4 @@
-## deep learning
+## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12)
 
 ## Generative Adversarial Nets
