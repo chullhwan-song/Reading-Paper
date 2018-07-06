@@ -22,6 +22,7 @@
 
 ## CNN
 * Imagenet classification with deep convolutional neural networks : [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/6)
+* Going Deeper with Convolutions  : [[paper]](https://arxiv.org/abs/1409.4842)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/13)
 
 ## Others
 * Learning to Compose with Professional Photographs on the Web : [[paper]](https://arxiv.org/abs/1702.00503)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/10)
