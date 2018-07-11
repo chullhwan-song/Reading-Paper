@@ -21,7 +21,7 @@
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
 * Tell Me Where to Look: Guided Attention Inference Network : [[paper]](https://arxiv.org/abs/1802.10171)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/11)
 
-## Image & Visual Embedding
+## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
 * Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
 
