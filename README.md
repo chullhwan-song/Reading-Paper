@@ -1,6 +1,9 @@
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12)
 
+## Metric learning
+* Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
+
 ## Generative Adversarial Nets
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
 
