@@ -16,6 +16,7 @@
 * Learning visual similarity for product design with convolutional neural networks : [[paper]](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/7) 
 * Bags of Local Convolutional Features for Scalable Instance Search  : [[paper]](https://arxiv.org/abs/1604.04653)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/9) 
 * Neural Codes for Image Retrieval : [[paper]](https://arxiv.org/abs/1404.1777)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/14) 
+* Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
 
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
@@ -23,7 +24,7 @@
 
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
-* Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
+
 
 ## CNN
 * Imagenet classification with deep convolutional neural networks : [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/6)
