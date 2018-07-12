@@ -11,6 +11,7 @@
 * Bags of Local Convolutional Features for Scalable Instance Search  : [[paper]](https://arxiv.org/abs/1604.04653)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/9) 
 * Neural Codes for Image Retrieval : [[paper]](https://arxiv.org/abs/1404.1777)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/14) 
 * Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
+* End-to-end Learning of Deep Visual Representations for Image Retrieval : [[paper]](https://arxiv.org/abs/1610.07940)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/17)
 
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
