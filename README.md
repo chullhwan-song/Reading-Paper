@@ -31,6 +31,7 @@
 * Imagenet classification with deep convolutional neural networks : [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/6)
 * Going Deeper with Convolutions  : [[paper]](https://arxiv.org/abs/1409.4842)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/13)
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices : [[paper]](https://arxiv.org/abs/1707.01083)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/18)
+* Deep Residual Learning for Image Recognition : [[paper]](https://arxiv.org/abs/1512.03385%5C)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/23)
 
 ## Metric learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
