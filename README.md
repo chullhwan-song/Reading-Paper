@@ -21,6 +21,8 @@
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
 * Tell Me Where to Look: Guided Attention Inference Network : [[paper]](https://arxiv.org/abs/1802.10171)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/11)
+* CBAM: Convolutional Block Attention Module : [[paper]](https://arxiv.org/abs/1807.06521)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/24)
+
 
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
