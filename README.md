@@ -23,7 +23,6 @@
 * Tell Me Where to Look: Guided Attention Inference Network : [[paper]](https://arxiv.org/abs/1802.10171)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/11)
 * CBAM: Convolutional Block Attention Module : [[paper]](https://arxiv.org/abs/1807.06521)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/24)
 
-
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
 * Dual Attention Networks for Multimodal Reasoning and Matching : [[paper]](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiOl5Pj19LUAhVKvLwKHVpoDdcQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1611.00471&usg=AFQjCNEkNnTcTYyq7AI9uFuQKDHom0ai1w)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/21)
@@ -35,6 +34,7 @@
 * Going Deeper with Convolutions  : [[paper]](https://arxiv.org/abs/1409.4842)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/13)
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices : [[paper]](https://arxiv.org/abs/1707.01083)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/18)
 * Deep Residual Learning for Image Recognition : [[paper]](https://arxiv.org/abs/1512.03385%5C)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/23)
+* Aggregated Residual Transformations for Deep Neural Networks : [[paper]](https://github.com/facebookresearch/ResNeXt)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/28)
 
 ## Metric learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
