@@ -1,4 +1,4 @@
-# Paper Review : current 27
+# Paper Review : current 28
 
 ## Image Segmentation
 * U-Net: Convolutional Networks for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1505.04597)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/20)
@@ -19,6 +19,8 @@
 * Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
 * End-to-end Learning of Deep Visual Representations for Image Retrieval : [[paper]](https://arxiv.org/abs/1610.07940)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/17)
 * CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples : [[paper]](https://arxiv.org/abs/1604.02426)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/19)
+* Image similarity using Deep CNN and Curriculum Learning : [[paper]](https://arxiv.org/abs/1709.08761)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/29)
+
 
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
