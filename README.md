@@ -36,7 +36,7 @@
 * Deep Residual Learning for Image Recognition : [[paper]](https://arxiv.org/abs/1512.03385%5C)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/23)
 * Aggregated Residual Transformations for Deep Neural Networks : [[paper]](https://github.com/facebookresearch/ResNeXt)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/28)
 
-## Metric earning
+## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
 
 ## Generative Adversarial Nets
