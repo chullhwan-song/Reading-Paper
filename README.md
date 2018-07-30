@@ -1,5 +1,8 @@
 # Paper Review : current 28
 
+## Video Classification
+* Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
+
 ## Image Segmentation
 * U-Net: Convolutional Networks for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1505.04597)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/20)
 * Mask R-CNN : [[paper]](https://arxiv.org/abs/1703.06870)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/22)
