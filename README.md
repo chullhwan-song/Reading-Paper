@@ -1,4 +1,4 @@
-# Paper Review : current 28
+# Paper Review : current 29
 
 ## Video Classification
 * Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
