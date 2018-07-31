@@ -1,4 +1,7 @@
-# Paper Review : current 29
+# Paper Review : current 30
+
+## Domain Adaptation
+* Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
 
 ## Video Classification
 * Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
