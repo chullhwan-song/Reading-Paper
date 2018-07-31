@@ -1,4 +1,4 @@
-# Paper Review : current 30
+# Paper Review : current 31
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
@@ -32,6 +32,7 @@
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
 * Tell Me Where to Look: Guided Attention Inference Network : [[paper]](https://arxiv.org/abs/1802.10171)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/11)
 * CBAM: Convolutional Block Attention Module : [[paper]](https://arxiv.org/abs/1807.06521)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/24)
+* BAM: Bottleneck Attention Module : [[paper]](https://arxiv.org/abs/1807.06514)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/32)
 
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
