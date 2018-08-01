@@ -1,4 +1,4 @@
-# Paper Review : current 31
+# Paper Review : current 32
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
@@ -46,6 +46,7 @@
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices : [[paper]](https://arxiv.org/abs/1707.01083)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/18)
 * Deep Residual Learning for Image Recognition : [[paper]](https://arxiv.org/abs/1512.03385%5C)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/23)
 * Aggregated Residual Transformations for Deep Neural Networks : [[paper]](https://github.com/facebookresearch/ResNeXt)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/28)
+* Very Deep Convolutional Networks for Large-Scale Image Recognition : [[paper]](https://arxiv.org/abs/1409.1556)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/33)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
