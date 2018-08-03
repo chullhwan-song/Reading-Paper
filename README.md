@@ -1,4 +1,4 @@
-# Paper Review : current 33
+# Paper Review : current 34
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
@@ -34,6 +34,7 @@
 * CBAM: Convolutional Block Attention Module : [[paper]](https://arxiv.org/abs/1807.06521)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/24)
 * BAM: Bottleneck Attention Module : [[paper]](https://arxiv.org/abs/1807.06514)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/32)
 * Neural Machine Translation by Jointly Learning to Align and Translate : [[paper]](https://arxiv.org/abs/1409.0473)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/32)
+* Residual Attention Networks for Image Classification : [[paper]](https://arxiv.org/abs/1704.06904)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/35)
 
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
