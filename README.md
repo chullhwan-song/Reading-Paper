@@ -29,7 +29,7 @@
 * End-to-end Learning of Deep Visual Representations for Image Retrieval : [[paper]](https://arxiv.org/abs/1610.07940)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/17)
 * CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples : [[paper]](https://arxiv.org/abs/1604.02426)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/19)
 * Image similarity using Deep CNN and Curriculum Learning : [[paper]](https://arxiv.org/abs/1709.08761)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/29)
-*Faster R-CNN Features for Instance Search : [[paper]](http://arxiv.org/abs/1604.08893)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/37)
+* Faster R-CNN Features for Instance Search : [[paper]](http://arxiv.org/abs/1604.08893)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/37)
 
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
