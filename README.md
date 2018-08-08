@@ -1,4 +1,4 @@
-# Paper Review : current 36
+# Paper Review : current 37
 
 ## NLP/NLU
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
@@ -52,6 +52,7 @@
 * Deep Residual Learning for Image Recognition : [[paper]](https://arxiv.org/abs/1512.03385%5C)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/23)
 * Aggregated Residual Transformations for Deep Neural Networks : [[paper]](https://github.com/facebookresearch/ResNeXt)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/28)
 * Very Deep Convolutional Networks for Large-Scale Image Recognition : [[paper]](https://arxiv.org/abs/1409.1556)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/33)
+* Squeeze Excitation Networks : [[paper]](https://arxiv.org/abs/1709.01507)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/38)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
