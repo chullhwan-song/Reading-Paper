@@ -1,4 +1,4 @@
-# Paper Review : current 37
+# Paper Review : My> 37, Link > 1 
 
 ## NLP/NLU
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
@@ -62,3 +62,4 @@
 
 ## Others
 * Learning to Compose with Professional Photographs on the Web : [[paper]](https://arxiv.org/abs/1702.00503)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/10)
+* Neural Arithmetic Logic Units : [[paper]](https://arxiv.org/abs/1808.00508)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/39)
