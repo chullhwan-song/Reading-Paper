@@ -1,26 +1,5 @@
 # Paper Review : My:[38], Link:[2]
 
-## face
-* Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
-
-## NLP/NLU
-* Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
-
-## Domain Adaptation
-* Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
-
-## Video Classification
-* Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
-
-## Image Segmentation
-* U-Net: Convolutional Networks for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1505.04597)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/20)
-* Mask R-CNN : [[paper]](https://arxiv.org/abs/1703.06870)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/22)
-
-## Deep Learning
-* Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12)
-
-## Localization
-* YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
 
 ## Image Retrieval & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -63,6 +42,29 @@
 
 ## Generative Adversarial Nets
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
+
+## Face
+* Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
+
+## NLP/NLU
+* Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
+
+## Domain Adaptation
+* Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
+
+## Video Classification
+* Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
+
+## Image Segmentation
+* U-Net: Convolutional Networks for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1505.04597)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/20)
+* Mask R-CNN : [[paper]](https://arxiv.org/abs/1703.06870)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/22)
+
+## Deep Learning
+* Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12)
+
+## Localization
+* YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
+
 
 ## Others
 * Learning to Compose with Professional Photographs on the Web : [[paper]](https://arxiv.org/abs/1702.00503)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/10)
