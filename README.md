@@ -1,4 +1,4 @@
-# Paper Review : My> 38, Link > 2 
+# Paper Review : My:[38], Link:[2]
 
 ## face
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
