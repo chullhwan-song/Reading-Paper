@@ -1,4 +1,4 @@
-# Paper Review : My:[38], Link:[2]
+# Paper Review : My:[39], Link:[2]
 
 
 ## Image Retrieval & Deep Feature
@@ -45,6 +45,7 @@
 
 ## Face
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
+* FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
 
 ## NLP/NLU
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
