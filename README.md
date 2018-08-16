@@ -1,4 +1,4 @@
-# Paper Review : My:[40], Link:[2]
+# Paper Review : My:[40], Link:[3]
 
 
 ## Image Retrieval & Deep Feature
@@ -40,6 +40,9 @@
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
+
+## Transfer Learning
+* Taskonomy: Disentangling Task Transfer Learning : [[paper]](https://arxiv.org/abs/1804.08328)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/45)
 
 ## Generative Adversarial Nets
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
