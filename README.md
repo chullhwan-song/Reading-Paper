@@ -1,4 +1,4 @@
-# Paper Review : My:[39], Link:[2]
+# Paper Review : My:[40], Link:[2]
 
 
 ## Image Retrieval & Deep Feature
@@ -36,6 +36,7 @@
 * Aggregated Residual Transformations for Deep Neural Networks : [[paper]](https://github.com/facebookresearch/ResNeXt)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/28)
 * Very Deep Convolutional Networks for Large-Scale Image Recognition : [[paper]](https://arxiv.org/abs/1409.1556)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/33)
 * Squeeze Excitation Networks : [[paper]](https://arxiv.org/abs/1709.01507)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/38)
+* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications  : [[paper]](https://arxiv.org/abs/1704.04861)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/44)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
