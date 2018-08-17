@@ -69,6 +69,7 @@
 
 ## Localization
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
+* YOLO9000: Better, Faster, Stronger : [[paper]](https://arxiv.org/abs/1612.08242)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/42)
 * Faster R-CNN : [[paper]](https://arxiv.org/abs/1506.01497)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/46)
 
 ## Others
