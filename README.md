@@ -50,6 +50,7 @@
 ## Face
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
+* The Devil of Face Recognition is in the Noise : [[paper]](https://arxiv.org/abs/1807.11649)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
 
 ## NLP/NLU
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
