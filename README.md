@@ -14,6 +14,7 @@
 * Faster R-CNN Features for Instance Search : [[paper]](http://arxiv.org/abs/1604.08893)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/37)
 * Regional Attention Based Deep Feature for Image Retrieval : [[paper]](https://sglab.kaist.ac.kr/RegionalAttention/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/40)
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination : [[paper]](https://arxiv.org/abs/1805.01978)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/47)
+* Object retrieval with deep convolutional features : [[paper]](http://doras.dcu.ie/22134/1/ios-press-object.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/49)
 
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
