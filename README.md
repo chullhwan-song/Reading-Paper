@@ -55,6 +55,7 @@
 
 ## NLP/NLU
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
+* node2vec: Scalable Feature Learning for Networks  : [[paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/50)
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
