@@ -24,6 +24,7 @@
 * BAM: Bottleneck Attention Module : [[paper]](https://arxiv.org/abs/1807.06514)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/32)
 * Neural Machine Translation by Jointly Learning to Align and Translate : [[paper]](https://arxiv.org/abs/1409.0473)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/32)
 * Residual Attention Networks for Image Classification : [[paper]](https://arxiv.org/abs/1704.06904)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/35)
+* Attention is all you need  : [[paper]](https://arxiv.org/abs/1706.03762)[[review]](https://pozalabs.github.io/transformer/)
 
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
