@@ -30,7 +30,7 @@
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
 * Dual Attention Networks for Multimodal Reasoning and Matching : [[paper]](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiOl5Pj19LUAhVKvLwKHVpoDdcQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1611.00471&usg=AFQjCNEkNnTcTYyq7AI9uFuQKDHom0ai1w)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/21)
 * Learning Deep Structure-Preserving Image-Text Embeddings : [[paper]](https://arxiv.org/abs/1511.06078)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/26)
-* Learning Two-Branch Neural Networks for Image-Text Matching Tasks : [[paper]](https://arxiv.org/abs/1704.03470)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/34)
+* Learning Two-Branch Neural Networks for Image-Text Matching Tasks : [[paper]](https://arxiv.org/abs/1704.03470)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/34)
 
 ## CNN
 * Imagenet classification with deep convolutional neural networks : [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/6)
@@ -82,7 +82,7 @@
 * Faster R-CNN : [[paper]](https://arxiv.org/abs/1506.01497)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/46)
 
 ## AutoML 
-* Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[review_link]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
+* Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
 
 ## Others
 * Learning to Compose with Professional Photographs on the Web : [[paper]](https://arxiv.org/abs/1702.00503)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/10)
