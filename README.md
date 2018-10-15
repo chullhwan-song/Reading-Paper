@@ -1,4 +1,4 @@
-# Paper Review : My:[47], Link:[5]
+# Paper Review : My:[48], Link:[5]
 
 
 ## Image Retrieval & Deep Feature
@@ -16,6 +16,7 @@
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination : [[paper]](https://arxiv.org/abs/1805.01978)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/47)
 * Object retrieval with deep convolutional features : [[paper]](http://doras.dcu.ie/22134/1/ios-press-object.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/49)
 * Cross-dimensional Weighting for Aggregated Deep Convolutional Features : [[paper]](https://arxiv.org/abs/1512.04065)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/51)
+* Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
 
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
