@@ -31,7 +31,10 @@
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
 * Dual Attention Networks for Multimodal Reasoning and Matching : [[paper]](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiOl5Pj19LUAhVKvLwKHVpoDdcQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1611.00471&usg=AFQjCNEkNnTcTYyq7AI9uFuQKDHom0ai1w)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/21)
 * Learning Deep Structure-Preserving Image-Text Embeddings : [[paper]](https://arxiv.org/abs/1511.06078)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/26)
-* Learning Two-Branch Neural Networks for Image-Text Matching Tasks : [[paper]](https://arxiv.org/abs/1704.03470)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/34)
+* Learning Two-Branch Neural Networks for Image-Text Matching Tasks : [[paper]](https://arxiv.org/abs/1810.02443)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
+
+## Recommendation
+* FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
 
 ## CNN
 * Imagenet classification with deep convolutional neural networks : [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/6)
