@@ -55,6 +55,7 @@
 ## Generative Adversarial Nets
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks : [[paper]](https://arxiv.org/pdf/1703.10593.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/57)
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks : [[paper]](https://arxiv.org/abs/1511.06434)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/58)
 
 ## Face
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
