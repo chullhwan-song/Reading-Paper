@@ -1,4 +1,4 @@
-# Paper Review : My:[49], Link:[5]
+# Paper Review : My:[50], Link:[5]
 
 
 ## Image Retrieval & Deep Feature
@@ -54,6 +54,7 @@
 
 ## Generative Adversarial Nets
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks : [[paper]](https://arxiv.org/pdf/1703.10593.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/57)
 
 ## Face
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
