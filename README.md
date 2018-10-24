@@ -72,6 +72,9 @@
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
 
+## Curriculum Learning
+* CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images : [[paper]](https://arxiv.org/abs/1808.01097)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/59)
+
 ## Video Classification
 * Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
 
