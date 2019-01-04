@@ -18,6 +18,9 @@
 * Cross-dimensional Weighting for Aggregated Deep Convolutional Features : [[paper]](https://arxiv.org/abs/1512.04065)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/51)
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
 
+## OCR - Recognition 
+* Synthetically Supervised Feature Learning for Scene Text Recognition  : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
+
 ## Attention & Deformation
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
 * Tell Me Where to Look: Guided Attention Inference Network : [[paper]](https://arxiv.org/abs/1802.10171)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/11)
