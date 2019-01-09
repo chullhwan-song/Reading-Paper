@@ -1,4 +1,4 @@
-# Paper Review : My:[53], Link:[5]
+# Paper Review : My:[53], Link:[6]
 
 
 ## Image Retrieval & Deep Feature
@@ -92,6 +92,7 @@
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
 * YOLO9000: Better, Faster, Stronger : [[paper]](https://arxiv.org/abs/1612.08242)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/42)
 * Faster R-CNN : [[paper]](https://arxiv.org/abs/1506.01497)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/46)
+* SSD: Single Shot MultiBox Detector : [[paper]](https://arxiv.org/abs/1512.02325)[[link_review]](https://www.youtube.com/watch?v=ej1ISEoAK5g&feature=youtu.be&fbclid=IwAR0hLTV5Vf9giN0utJ_2DtcoBJzkuO91-cTlR1UpPzlp38mD5KAOeqzKxJQ)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
