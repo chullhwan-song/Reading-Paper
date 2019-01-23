@@ -97,6 +97,9 @@
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
 
-## Others
+## Image Quality
 * Learning to Compose with Professional Photographs on the Web : [[paper]](https://arxiv.org/abs/1702.00503)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/10)
+* Photo Aesthetics Ranking Network with Attributes and Content Adaptation : [[paper]](http://users.eecs.northwestern.edu/~xsh835/assets/eccv2016_aesthetics.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/65)
+
+## Others
 * Neural Arithmetic Logic Units : [[paper]](https://arxiv.org/abs/1808.00508)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/39)
