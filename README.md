@@ -22,6 +22,7 @@
 * Synthetically Supervised Feature Learning for Scene Text Recognition  : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
 
 ## Attention & Deformation
+* Squeeze Excitation Networks : [[paper]](https://arxiv.org/abs/1709.01507)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/38)
 * Spatial Transformer Network : [[paper]](https://arxiv.org/abs/1506.02025)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/2)
 * Tell Me Where to Look: Guided Attention Inference Network : [[paper]](https://arxiv.org/abs/1802.10171)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/11)
 * CBAM: Convolutional Block Attention Module : [[paper]](https://arxiv.org/abs/1807.06521)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/24)
