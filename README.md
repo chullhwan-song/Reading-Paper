@@ -1,5 +1,4 @@
-# Paper Review : My:[54], Link:[6]
-
+# Paper Review : My:[55], Link:[6]
 
 ## Image Retrieval & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
