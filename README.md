@@ -1,4 +1,4 @@
-# Paper Review : My:[57], Link:[6]
+# Paper Review : My:[58], Link:[6]
 
 ## Image Retrieval & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -89,6 +89,7 @@
 ## Image Segmentation
 * U-Net: Convolutional Networks for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1505.04597)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/20)
 * Mask R-CNN : [[paper]](https://arxiv.org/abs/1703.06870)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/22)
+* Fully Convolutional Networks for Semantic Segmentation : [[paper]](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/74)
 
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12)
