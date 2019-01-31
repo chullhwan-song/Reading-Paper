@@ -89,7 +89,7 @@
 ## Image Segmentation
 * U-Net: Convolutional Networks for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1505.04597)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/20)
 * Mask R-CNN : [[paper]](https://arxiv.org/abs/1703.06870)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/22)
-* Fully Convolutional Networks for Semantic Segmentation : [[paper]]https://arxiv.org/abs/1411.4038)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/74)
+* Fully Convolutional Networks for Semantic Segmentation : [[paper]](https://arxiv.org/abs/1411.4038)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/74)
 
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12)
