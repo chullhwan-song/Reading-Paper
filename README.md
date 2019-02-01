@@ -1,4 +1,4 @@
-# Paper Review : My:[58], Link:[6]
+# Paper Review : My:[59], Link:[6]
 
 ## Image Retrieval & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -64,6 +64,7 @@
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks : [[paper]](https://arxiv.org/pdf/1703.10593.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/57)
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks : [[paper]](https://arxiv.org/abs/1511.06434)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/58)
+* Progressive Growing of GANs for Improved Quality, Stability, and Variation : [[paper]](https://arxiv.org/abs/1710.10196)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/76)
 
 ## Face
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
