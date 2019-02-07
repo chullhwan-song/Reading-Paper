@@ -17,7 +17,7 @@
 * Cross-dimensional Weighting for Aggregated Deep Convolutional Features : [[paper]](https://arxiv.org/abs/1512.04065)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/51)
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
 
-## Image Retrieval using Hash
+## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
 
 ## [OCR](https://github.com/chullhwan-song/OCR) - Recognition 
