@@ -1,4 +1,4 @@
-# Paper Review : My:[61], Link:[6]
+# Paper Review : My:[62], Link:[6]
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -16,6 +16,9 @@
 * Object retrieval with deep convolutional features : [[paper]](http://doras.dcu.ie/22134/1/ios-press-object.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/49)
 * Cross-dimensional Weighting for Aggregated Deep Convolutional Features : [[paper]](https://arxiv.org/abs/1512.04065)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/51)
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
+
+## Image Retrieval using Hash
+* Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
 
 ## [OCR](https://github.com/chullhwan-song/OCR) - Recognition 
 * Synthetically Supervised Feature Learning for Scene Text Recognition  : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
