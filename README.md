@@ -1,4 +1,4 @@
-# Paper Review : My:[60], Link:[6]
+# Paper Review : My:[61], Link:[6]
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -70,6 +70,7 @@
 ## Face
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
 * The Devil of Face Recognition is in the Noise : [[paper]](https://arxiv.org/abs/1807.11649)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
+* Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/77)
 
 ## Pose Estimation
 * Convolutional Pose Machines : [[paper]](https://arxiv.org/abs/1602.00134)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/48)
@@ -103,6 +104,7 @@
 * SSD: Single Shot MultiBox Detector : [[paper]](https://arxiv.org/abs/1512.02325)[[link_review]](https://www.youtube.com/watch?v=ej1ISEoAK5g&feature=youtu.be&fbclid=IwAR0hLTV5Vf9giN0utJ_2DtcoBJzkuO91-cTlR1UpPzlp38mD5KAOeqzKxJQ)
 * Pelee: A Real-Time Object Detection System on Mobile Devices : [[paper]](https://arxiv.org/abs/1804.06882)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/67)
 * R-FCN: Object Detection via Region-based Fully Convolutional Networks: [[paper]](https://arxiv.org/abs/1605.06409)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/68)
+* Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/77)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
