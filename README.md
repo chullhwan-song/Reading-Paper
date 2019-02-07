@@ -1,4 +1,4 @@
-# Paper Review : My:[59], Link:[6]
+# Paper Review : My:[60], Link:[6]
 
 ## Image Retrieval & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -23,6 +23,7 @@
 ## [OCR](https://github.com/chullhwan-song/OCR) - Detection 
 * PixelLink: Detecting Scene Text via Instance Segmentation : [[paper]](https://arxiv.org/abs/1801.01315)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/71)
 * EAST: An Efficient and Accurate Scene Text Detector : [[paper]](https://arxiv.org/abs/1704.03155)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/73)
+* Scene Text Detection with Supervised Pyramid Context Network : [[paper]](https://arxiv.org/abs/1811.08605)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/75)
 
 ## Attention & Deformation
 * Squeeze Excitation Networks : [[paper]](https://arxiv.org/abs/1709.01507)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/38)
