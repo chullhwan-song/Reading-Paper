@@ -1,4 +1,4 @@
-# Paper Review : My:[62], Link:[6]
+# Paper Review : My:[63], Link:[6]
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -19,6 +19,7 @@
 
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
+* Feature Learning based Deep Supervised Hashing with Pairwise Labels : [[paper]](https://arxiv.org/abs/1511.03855)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/79)
 
 ## [OCR](https://github.com/chullhwan-song/OCR) - Recognition 
 * Synthetically Supervised Feature Learning for Scene Text Recognition  : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
