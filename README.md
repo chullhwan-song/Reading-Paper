@@ -71,6 +71,7 @@
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks : [[paper]](https://arxiv.org/abs/1511.06434)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/58)
 * Progressive Growing of GANs for Improved Quality, Stability, and Variation : [[paper]](https://arxiv.org/abs/1710.10196)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/76)
 * Beholder-GAN: Generation and Beautification of Facial Images with Conditioning on Their Beauty Level : [[paper]](https://arxiv.org/abs/1902.02593)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/81)
+* Synthetically Supervised Feature Learning for Scene Text Recognition  : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
 
 ## Face
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
