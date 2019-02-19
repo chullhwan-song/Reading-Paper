@@ -1,4 +1,6 @@
 # Paper Review : My:[65], Link:[6]
+* 개인 공부라 완벽한 발표자료가 아닙니다. 
+* 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트/ 됩니다.
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
