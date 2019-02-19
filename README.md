@@ -61,6 +61,7 @@
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
+* FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
 
 ## Transfer Learning
 * Taskonomy: Disentangling Task Transfer Learning : [[paper]](https://arxiv.org/abs/1804.08328)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/45)
