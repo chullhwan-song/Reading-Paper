@@ -1,4 +1,4 @@
-# Paper Review : My:[71], Link:[6]
+# Paper Review : My:[72], Link:[6]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -81,6 +81,7 @@
 * A Style-Based Generator Architecture for Generative Adversarial Networks : [[paper]](https://arxiv.org/abs/1812.04948)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/83)
 * High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs : [[paper]](https://arxiv.org/abs/1711.11585)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/101)
 * Everybody Dance Now : [[paper]](https://arxiv.org/abs/1808.07371)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/100)
+* Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
 
 
 ## Face
