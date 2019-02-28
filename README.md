@@ -1,4 +1,4 @@
-# Paper Review : My:[74], Link:[6]
+# Paper Review : My:[75], Link:[6]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -74,6 +74,7 @@
 
 ## Transfer Learning
 * Taskonomy: Disentangling Task Transfer Learning : [[paper]](https://arxiv.org/abs/1804.08328)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/45)
+* What makes ImageNet good for transfer learning?g : [[paper]](https://arxiv.org/abs/1608.08614)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/104)
 
 ## Generative Adversarial Nets
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
