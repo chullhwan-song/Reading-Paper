@@ -1,4 +1,4 @@
-# Paper Review : My:[78], Link:[6]
+# Paper Review : My:[79], Link:[6]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -29,12 +29,14 @@
 
 
 ## [OCR](https://github.com/chullhwan-song/OCR) - Recognition 
-* Synthetically Supervised Feature Learning for Scene Text Recognition  : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
+* Synthetically Supervised Feature Learning for Scene Text Recognition : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
+* FOTS: Fast Oriented Text Spotting with a Unified Network : [[paper]](https://arxiv.org/abs/1801.01671)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/107)
 
 ## [OCR](https://github.com/chullhwan-song/OCR) - Detection 
 * PixelLink: Detecting Scene Text via Instance Segmentation : [[paper]](https://arxiv.org/abs/1801.01315)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/71)
 * EAST: An Efficient and Accurate Scene Text Detector : [[paper]](https://arxiv.org/abs/1704.03155)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/73)
 * Scene Text Detection with Supervised Pyramid Context Network : [[paper]](https://arxiv.org/abs/1811.08605)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/75)
+* FOTS: Fast Oriented Text Spotting with a Unified Network : [[paper]](https://arxiv.org/abs/1801.01671)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/107)
 
 ## Attention & Deformation
 * Squeeze Excitation Networks : [[paper]](https://arxiv.org/abs/1709.01507)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/38)
