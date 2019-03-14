@@ -27,7 +27,10 @@
 * Feature Learning based Deep Supervised Hashing with Pairwise Labels : [[paper]](https://arxiv.org/abs/1511.03855)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/79)
 * Deep Supervised Hashing with Triplet Labels : [[paper]](https://arxiv.org/abs/1612.03900)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/86)
 
-## Video 
+
+## Video Classification
+* NetVLAD: CNN architecture for weakly supervised place recognition : [[paper]](https://arxiv.org/abs/1511.07247)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/3)
+* Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
 * Less is More: Learning Highlight Detection from Video Duration : [[paper]](https://arxiv.org/abs/1903.00859)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/113)
 
 
@@ -115,9 +118,6 @@
 
 ## Curriculum Learning
 * CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images : [[paper]](https://arxiv.org/abs/1808.01097)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/59)
-
-## Video Classification
-* Learnable pooling with Context Gating for video classification : [[paper]](https://arxiv.org/abs/1706.06905)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/30)
 
 ## Image Segmentation
 * U-Net: Convolutional Networks for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1505.04597)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/20)
