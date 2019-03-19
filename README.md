@@ -1,4 +1,4 @@
-# Paper Review : My:[83], Link:[6]
+# Paper Review : My:[84], Link:[6]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -146,6 +146,7 @@
 * Photo Aesthetics Ranking Network with Attributes and Content Adaptation : [[paper]](http://users.eecs.northwestern.edu/~xsh835/assets/eccv2016_aesthetics.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/65)
 * Composition-preserving Deep Photo Aesthetics Assessment : [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mai_Composition-Preserving_Deep_Photo_CVPR_2016_paper.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/66)
 * Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer : [[paper]](http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/99)
+* NIMA: Neural Image Assessment : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/119)
 
 ## Others
 * Neural Arithmetic Logic Units : [[paper]](https://arxiv.org/abs/1808.00508)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/39)
