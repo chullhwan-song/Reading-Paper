@@ -131,7 +131,7 @@
 
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
-* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) 
+* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) 
 
 ## Localization
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
