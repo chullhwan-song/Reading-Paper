@@ -1,4 +1,4 @@
-# Paper Review : My:[86], Link:[7]
+# Paper Review : My:[86], Link:[8]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -131,6 +131,7 @@
 
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
+* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) 
 
 ## Localization
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
