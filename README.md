@@ -22,7 +22,7 @@
 * Saliency Weighted Convolutional Features for Instance Search : [[paper]](https://arxiv.org/abs/1711.10795)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/103)
 * 2018 Google Landmark Retrieval Challenge 리뷰 : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/105)
 * 2019 Google Landmark Retrieval Challenge 리뷰 : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/137)
-* Saliency Weighted Convolutional Features for Instance Search : [[paper]](https://arxiv.org/abs/1906.06626)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/145)
+* REMAP: Multi-layer entropy-guided pooling of dense CNN features for image retrieval  : [[paper]](https://arxiv.org/abs/1906.06626)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/145)
 
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
