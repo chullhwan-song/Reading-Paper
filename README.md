@@ -1,4 +1,4 @@
-# Paper Review : My:[91], Link:[8]
+# Paper Review : My:[91], Link:[10]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -146,6 +146,7 @@
 * R-FCN: Object Detection via Region-based Fully Convolutional Networks: [[paper]](https://arxiv.org/abs/1605.06409)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/68)
 * Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/77)
 * DSSD : Deconvolutional Single Shot Detector: [[paper]](https://arxiv.org/abs/1701.06659)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/62)
+* Feature-fused SSD: fast detection for small objects : [[paper]](https://arxiv.org/abs/1709.05054)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/155)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
