@@ -145,6 +145,7 @@
 * Pelee: A Real-Time Object Detection System on Mobile Devices : [[paper]](https://arxiv.org/abs/1804.06882)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/67)
 * R-FCN: Object Detection via Region-based Fully Convolutional Networks: [[paper]](https://arxiv.org/abs/1605.06409)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/68)
 * Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/77)
+* DSSD : Deconvolutional Single Shot Detector: [[paper]](https://arxiv.org/abs/1701.06659)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/62)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
