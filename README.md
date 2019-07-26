@@ -156,7 +156,7 @@
 * Photo Aesthetics Ranking Network with Attributes and Content Adaptation : [[paper]](http://users.eecs.northwestern.edu/~xsh835/assets/eccv2016_aesthetics.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/65)
 * Composition-preserving Deep Photo Aesthetics Assessment : [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mai_Composition-Preserving_Deep_Photo_CVPR_2016_paper.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/66)
 * Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer : [[paper]](http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/99)
-* NIMA: Neural Image Assessment : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/163)
+* NIMA: Neural Image Assessment : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/119)
 
 ## Learning to Rank
 * From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
