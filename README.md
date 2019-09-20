@@ -1,4 +1,4 @@
-# Paper Review : My:[94], Link:[10]
+# Paper Review : My:[95], Link:[10]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -120,6 +120,7 @@
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
 * node2vec: Scalable Feature Learning for Networks  : [[paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/50)
 * DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval : [[paper]](https://arxiv.org/abs/1710.05649)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/52)
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding : [[paper]](https://arxiv.org/abs/1810.04805)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/202)(~ing)
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
