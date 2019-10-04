@@ -1,4 +1,4 @@
-# Paper Review : My:[96], Link:[10]
+# Paper Review : My:[97], Link:[10]
 * 개인 공부라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -27,6 +27,7 @@
 * Fine-tuning CNN Image Retrieval with No Human Annotation : [[paper]](https://arxiv.org/abs/1711.02512)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/153)
 * Large Scale Landmark Recognition via Deep Metric Learning : [[paper]](https://arxiv.org/abs/1908.10192)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/186)
 * Deep Aggregation of Regional Convolutional Activations for Content Based Image Retrieval : [[paper]](https://arxiv.org/abs/1909.09420)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/205)
+* Challenging deep image descriptors for retrieval in heterogeneous iconographic collections : [[paper]](https://arxiv.org/abs/1909.08866v1)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/207)
 
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
