@@ -147,6 +147,7 @@
 * Faster R-CNN : [[paper]](https://arxiv.org/abs/1506.01497)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/46)
   * faster rcnn의 anchor generator 개념 뿐만 아니라 소스레벨에서도 이해하기 : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/184)
 * SSD: Single Shot MultiBox Detector : [[paper]](https://arxiv.org/abs/1512.02325)[[link_review]](https://www.youtube.com/watch?v=ej1ISEoAK5g&feature=youtu.be&fbclid=IwAR0hLTV5Vf9giN0utJ_2DtcoBJzkuO91-cTlR1UpPzlp38mD5KAOeqzKxJQ)
+  *  Why normalization performed only for conv4_3? : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/213#issuecomment-538815095)
 * Pelee: A Real-Time Object Detection System on Mobile Devices : [[paper]](https://arxiv.org/abs/1804.06882)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/67)
 * R-FCN: Object Detection via Region-based Fully Convolutional Networks: [[paper]](https://arxiv.org/abs/1605.06409)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/68)
 * Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/77)
