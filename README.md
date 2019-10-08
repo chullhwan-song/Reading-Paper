@@ -28,6 +28,7 @@
 * Large Scale Landmark Recognition via Deep Metric Learning : [[paper]](https://arxiv.org/abs/1908.10192)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/186)
 * Deep Aggregation of Regional Convolutional Activations for Content Based Image Retrieval : [[paper]](https://arxiv.org/abs/1909.09420)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/205)
 * Challenging deep image descriptors for retrieval in heterogeneous iconographic collections : [[paper]](https://arxiv.org/abs/1909.08866v1)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/207)
+* A Benchmark on Tricks for Large-scale Image Retrieval : [[paper]](https://arxiv.org/abs/1907.11854)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/177)
 
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
