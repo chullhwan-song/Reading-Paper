@@ -1,4 +1,4 @@
-# Paper Review : My:[98], Link:[10]
+# Paper Review : My:[99], Link:[10]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -65,7 +65,7 @@
 * Residual Attention Networks for Image Classification : [[paper]](https://arxiv.org/abs/1704.06904)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/35)
 * Attention is all you need  : [[paper]](https://arxiv.org/abs/1706.03762)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/54)[[link_review]](https://pozalabs.github.io/transformer/)
 * Residual Attention Network for Image Classification : [[paper]](https://arxiv.org/abs/1704.06904)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/102)
-
+* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
 
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
@@ -89,6 +89,8 @@
 * Pelee: A Real-Time Object Detection System on Mobile Devices : [[paper]](https://arxiv.org/abs/1804.06882)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/67)
 * Residual Attention Network for Image Classification : [[paper]](https://arxiv.org/abs/1704.06904)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/102)
 * Wide Residual Networks : [[paper]](https://arxiv.org/abs/1605.07146)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/88)
+* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
+
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
