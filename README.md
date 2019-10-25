@@ -30,7 +30,7 @@
 * Challenging deep image descriptors for retrieval in heterogeneous iconographic collections : [[paper]](https://arxiv.org/abs/1909.08866v1)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/207)
 * A Benchmark on Tricks for Large-scale Image Retrieval : [[paper]](https://arxiv.org/abs/1907.11854)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/177)
 * Attention-Aware Generalized Mean Pooling for Image Retrieval : [[paper]](https://arxiv.org/abs/1811.00202)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/157)
-* Class-Weighted Convolutional Features for Image Retrieval : [[paper]](https://arxiv.org/abs/1707.02581[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/231) # 100th
+* Class-Weighted Convolutional Features for Image Retrieval : [[paper]](https://arxiv.org/abs/1707.02581)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/231) # 100th
 
 
 ## Image Retrieval using Deep Hash
