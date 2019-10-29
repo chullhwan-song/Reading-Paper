@@ -1,4 +1,4 @@
-# Paper Review : My:[101], Link:[10]
+# Paper Review : My:[102], Link:[10]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -31,6 +31,7 @@
 * A Benchmark on Tricks for Large-scale Image Retrieval : [[paper]](https://arxiv.org/abs/1907.11854)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/177)
 * Attention-Aware Generalized Mean Pooling for Image Retrieval : [[paper]](https://arxiv.org/abs/1811.00202)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/157)
 * Class-Weighted Convolutional Features for Image Retrieval : [[paper]](https://arxiv.org/abs/1707.02581)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/231) # 100th
+* deep image retrieval loss (계속 업데이트):[[paper]](https://github.com/chullhwan-song/Reading-Paper/issues/148)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/181)
 
 
 ## Image Retrieval using Deep Hash
