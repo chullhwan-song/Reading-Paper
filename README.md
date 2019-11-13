@@ -174,7 +174,7 @@
 
 ## Learning to Rank
 * From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
-* TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank : [[paper]](https://arxiv.org/abs/1812.00073)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
+* TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank : [[paper]](https://arxiv.org/abs/1812.00073)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/163)
 
 ## Others
 * Neural Arithmetic Logic Units : [[paper]](https://ciir-publications.cs.umass.edu/pub/web/getpdf.php?id=1302)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/39)
