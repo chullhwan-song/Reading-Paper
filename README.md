@@ -129,8 +129,12 @@
 ## NLP/NLU
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
 * node2vec: Scalable Feature Learning for Networks  : [[paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/50)
-* DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval : [[paper]](https://arxiv.org/abs/1710.05649)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/52)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding : [[paper]](https://arxiv.org/abs/1810.04805)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/202)(~ing)
+
+## Learning to Rank
+* DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval : [[paper]](https://arxiv.org/abs/1710.05649)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/52)
+* From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
+* TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank : [[paper]](https://arxiv.org/abs/1812.00073)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/163)
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
@@ -171,10 +175,6 @@
 * Composition-preserving Deep Photo Aesthetics Assessment : [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mai_Composition-Preserving_Deep_Photo_CVPR_2016_paper.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/66)
 * Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer : [[paper]](http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/99)
 * NIMA: Neural Image Assessment : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/119)
-
-## Learning to Rank
-* From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
-* TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank : [[paper]](https://arxiv.org/abs/1812.00073)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/163)
 
 ## Others
 * Neural Arithmetic Logic Units : [[paper]](https://ciir-publications.cs.umass.edu/pub/web/getpdf.php?id=1302)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/39)
