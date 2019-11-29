@@ -1,4 +1,4 @@
-# Paper Review : My:[103], Link:[10]
+# Paper Review : My:[103], Link:[12]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -94,6 +94,7 @@
 * Wide Residual Networks : [[paper]](https://arxiv.org/abs/1605.07146)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/88)
 * Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
 * Selective Kernel Networks : [[paper]](https://arxiv.org/abs/1903.06586)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/232)
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1905.11946) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/39)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
@@ -165,6 +166,7 @@
 * Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/77)
 * DSSD : Deconvolutional Single Shot Detector: [[paper]](https://arxiv.org/abs/1701.06659)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/62)
 * Feature-fused SSD: fast detection for small objects : [[paper]](https://arxiv.org/abs/1709.05054)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/155)
+* EfficientDet ： Scalable and Efficient Object Detection :  [[paper]](https://arxiv.org/abs/1911.09070) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/253)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
