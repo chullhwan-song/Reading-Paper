@@ -1,4 +1,4 @@
-# Paper Review : My:[106], Link:[12]
+# Paper Review : My:[106], Link:[13]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -33,12 +33,10 @@
 * Class-Weighted Convolutional Features for Image Retrieval : [[paper]](https://arxiv.org/abs/1707.02581)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/231) # 100th
 * deep image retrieval loss (계속 업데이트):[[paper]](https://github.com/chullhwan-song/Reading-Paper/issues/148)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/181)
 
-
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
 * Feature Learning based Deep Supervised Hashing with Pairwise Labels : [[paper]](https://arxiv.org/abs/1511.03855)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/79)
 * Deep Supervised Hashing with Triplet Labels : [[paper]](https://arxiv.org/abs/1612.03900)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/86)
-
 
 ## Video Classification
 * NetVLAD: CNN architecture for weakly supervised place recognition : [[paper]](https://arxiv.org/abs/1511.07247)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/3)
@@ -139,6 +137,7 @@
 * Deep Neural Network for Learning to Rank Query-Text Pairs : [[paper]](https://arxiv.org/abs/1802.08988)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/256)
 * End-to-End Neural Ad-hoc Ranking with Kernel Pooling : [[paper]](https://arxiv.org/abs/1706.06613)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/258)
 * Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search : [[paper]](http://www.cs.cmu.edu/~./callan/Papers/wsdm18-zhuyun-dai.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/257)
+* PACRR: A position-aware neural IR model for relevance matching : [[paper]](https://arxiv.org/abs/1704.08803)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/267)
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
