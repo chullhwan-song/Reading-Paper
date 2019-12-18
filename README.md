@@ -131,13 +131,13 @@
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding : [[paper]](https://arxiv.org/abs/1810.04805)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/202)(~ing)
 
 ## [Learning to Rank](https://github.com/chullhwan-song/Neural-Ranking-Study)
-* DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval : [[paper]](https://arxiv.org/abs/1710.05649)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/52)
-* SNRM: From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
-* TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank : [[paper]](https://arxiv.org/abs/1812.00073)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/163)
-* ConvRankNet: Deep Neural Network for Learning to Rank Query-Text Pairs : [[paper]](https://arxiv.org/abs/1802.08988)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/256)
-* KNRM: End-to-End Neural Ad-hoc Ranking with Kernel Pooling : [[paper]](https://arxiv.org/abs/1706.06613)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/258)
-* Conv-KNRM: Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search : [[paper]](http://www.cs.cmu.edu/~./callan/Papers/wsdm18-zhuyun-dai.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/257)
-* PACRR: A position-aware neural IR model for relevance matching : [[paper]](https://arxiv.org/abs/1704.08803)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/267)
+* **DeepRank**: A New Deep Architecture for Relevance Ranking in Information Retrieval : [[paper]](https://arxiv.org/abs/1710.05649)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/52)
+* **SNRM**: From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
+* **TF-Ranking**: Scalable TensorFlow Library for Learning-to-Rank : [[paper]](https://arxiv.org/abs/1812.00073)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/163)
+* **ConvRankNet**: Deep Neural Network for Learning to Rank Query-Text Pairs : [[paper]](https://arxiv.org/abs/1802.08988)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/256)
+* **KNRM**: End-to-End Neural Ad-hoc Ranking with Kernel Pooling : [[paper]](https://arxiv.org/abs/1706.06613)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/258)
+* **Conv-KNRM**: Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search : [[paper]](http://www.cs.cmu.edu/~./callan/Papers/wsdm18-zhuyun-dai.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/257)
+* **PACRR**: A position-aware neural IR model for relevance matching : [[paper]](https://arxiv.org/abs/1704.08803)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/267)
 
 ## Domain Adaptation
 * Domain-Adversarial Training of Neural Networks : [[paper]](https://arxiv.org/abs/1505.07818)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/31)
