@@ -132,7 +132,7 @@
 * node2vec: Scalable Feature Learning for Networks  : [[paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/50)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding : [[paper]](https://arxiv.org/abs/1810.04805)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/202)(~ing)
 
-## Learning to Rank
+## [Learning to Rank](https://github.com/chullhwan-song/Neural-Ranking-Study)
 * DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval : [[paper]](https://arxiv.org/abs/1710.05649)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/52)
 * From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/162)
 * TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank : [[paper]](https://arxiv.org/abs/1812.00073)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/163)
