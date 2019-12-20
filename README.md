@@ -128,6 +128,7 @@
 ## NLP/NLU
 * Efficient Estimation of Word Representations in Vector Space  : [[paper]](https://arxiv.org/abs/1301.3781)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/36)
 * node2vec: Scalable Feature Learning for Networks  : [[paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/50)
+* Transfomer(self attention) 기본 이해하기 : [PPT정리](https://github.com/chullhwan-song/Reading-Paper/files/3986802/Self.Attention.pptx)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding : [[paper]](https://arxiv.org/abs/1810.04805)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/202)(~ing)
 
 ## [Learning to Rank](https://github.com/chullhwan-song/Neural-Ranking-Study)
