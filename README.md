@@ -35,6 +35,9 @@
 * Matchable Image Retrieval by Learning from Surface Reconstruction:[[paper]](https://arxiv.org/abs/1811.10343)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/269)
 * Regional Maximum Activations of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval:[[paper]](https://dl.acm.org/citation.cfm?id=3266436)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/270)
 
+## Fashion
+* FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
+
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
 * Feature Learning based Deep Supervised Hashing with Pairwise Labels : [[paper]](https://arxiv.org/abs/1511.03855)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/79)
