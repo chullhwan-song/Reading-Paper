@@ -1,4 +1,4 @@
-# Paper Review : My:[114], Link:[13]
+# Paper Review : My:[115], Link:[13]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -102,6 +102,7 @@
 * Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
 * Selective Kernel Networks : [[paper]](https://arxiv.org/abs/1903.06586)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/232)
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1905.11946) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/39)
+* Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
