@@ -35,11 +35,17 @@
 * Matchable Image Retrieval by Learning from Surface Reconstruction:[[paper]](https://arxiv.org/abs/1811.10343)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/269)
 * Regional Maximum Activations of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval:[[paper]](https://dl.acm.org/citation.cfm?id=3266436)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/270)
 
-## Fashion
+## Fashion Image Retrieval
+* Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
+* Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
+
+## Fashion Recommendation
 * FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
+* Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109)
+
+## Fashion Generative Adversarial Nets
 * Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
 * Fashion-Gen: The Generative Fashion Dataset and Challenge : [[paper]](https://arxiv.org/abs/1806.08317)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/95)
-* Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109)
 * DwNet: Dense warp-based network for pose-guided human video generation: [[paper]](https://arxiv.org/abs/1910.09139)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/233)
 
 ## Image Retrieval using Deep Hash
