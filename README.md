@@ -1,4 +1,4 @@
-# Paper Review : My:[115], Link:[13]
+# Paper Review : My:[116], Link:[13]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -34,6 +34,7 @@
 * deep image retrieval loss (계속 업데이트):[[paper]](https://github.com/chullhwan-song/Reading-Paper/issues/148)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/181)
 * Matchable Image Retrieval by Learning from Surface Reconstruction:[[paper]](https://arxiv.org/abs/1811.10343)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/269)
 * Regional Maximum Activations of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval:[[paper]](https://dl.acm.org/citation.cfm?id=3266436)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/270)
+* Combination of Multiple Global Descriptors for Image Retrieval:[[paper]](https://arxiv.org/abs/1903.10663)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/313)
 
 ## Fashion Image Retrieval
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
