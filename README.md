@@ -1,4 +1,4 @@
-# Paper Review : My:[116], Link:[13]
+# Paper Review : My:[117], Link:[13]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -36,6 +36,11 @@
 * Regional Maximum Activations of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval:[[paper]](https://dl.acm.org/citation.cfm?id=3266436)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/270)
 * Combination of Multiple Global Descriptors for Image Retrieval:[[paper]](https://arxiv.org/abs/1903.10663)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/313)
 
+## Metric Learning
+* Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
+* FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
+* Sampling Matters in Deep Embedding Learning : [[paper]](https://arxiv.org/abs/1706.07567)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/324)
+
 ## Fashion Image Retrieval
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
 * Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
@@ -48,6 +53,7 @@
 * Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
 * Fashion-Gen: The Generative Fashion Dataset and Challenge : [[paper]](https://arxiv.org/abs/1806.08317)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/95)
 * DwNet: Dense warp-based network for pose-guided human video generation: [[paper]](https://arxiv.org/abs/1910.09139)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/233)
+
 
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
@@ -111,9 +117,7 @@
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1905.11946) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/255)
 * Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 
-## Metric Learning
-* Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
-* FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
+
 
 ## Transfer Learning
 * Taskonomy: Disentangling Task Transfer Learning : [[paper]](https://arxiv.org/abs/1804.08328)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/45)
