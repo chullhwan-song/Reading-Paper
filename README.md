@@ -38,6 +38,7 @@
 * Unifying Deep Local and Global Features for Efficient Image Search:[[paper]](https://arxiv.org/abs/2001.05027)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/290)
 * ACTNET: end-to-end learning of feature activations and multi-stream aggregation for effective instance image retrieval:[[paper]](https://arxiv.org/abs/1907.05794)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/351)
 * Google Landmarks Dataset v2 A Large-Scale Benchmark for Instance-Level Recognition and Retrieval:[[paper]](https://arxiv.org/abs/2004.01804)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/358)
+* Detect-to-Retrieve: Efficient Regional Aggregation for Image Search:[[paper]](https://arxiv.org/abs/1812.01584)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/141)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
