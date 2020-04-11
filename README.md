@@ -1,4 +1,4 @@
-# Paper Review : My:[122], Link:[13]
+# Paper Review : My:[123], Link:[13]
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -48,11 +48,12 @@
 
 ## Fashion Image Retrieval
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
-* Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
+* Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1803.09196)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
 
 ## Fashion Recommendation
 * FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
 * Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109)
+* Learning Type-Aware Embeddings for Fashion Compatibility : [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/360)
 
 ## Fashion Generative Adversarial Nets
 * Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
