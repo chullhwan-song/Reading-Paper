@@ -40,7 +40,7 @@
 * Google Landmarks Dataset v2 A Large-Scale Benchmark for Instance-Level Recognition and Retrieval:[[paper]](https://arxiv.org/abs/2004.01804)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/358)
 * Detect-to-Retrieve: Efficient Regional Aggregation for Image Search:[[paper]](https://arxiv.org/abs/1812.01584)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/141)
 * Local Features and Visual Words Emerge in Activations:[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/150)
-* Image Retrieval using Multi-scale CNN Features Pooling : [[paper]](https://github.com/chullhwan-song/Reading-Paper/issues/372)
+* Image Retrieval using Multi-scale CNN Features Pooling: [[paper]](https://arxiv.org/abs/2004.09695)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/372)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
@@ -148,7 +148,7 @@
 ## Face
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
 * The Devil of Face Recognition is in the Noise : [[paper]](https://arxiv.org/abs/1807.11649)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
-* Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/77)
+* Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review](https://github.com/chullhwan-song/Reading-Paper/issues/77)
 
 ## Pose Estimation
 * Convolutional Pose Machines : [[paper]](https://arxiv.org/abs/1602.00134)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/48)
