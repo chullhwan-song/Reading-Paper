@@ -1,8 +1,8 @@
-# Paper Review : My:[124], My_Light:[1], Link:[14], 
+# Paper Review : My:[124], My_Light:[2], Link:[14], 
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
-* lihgt_link는 간단하게 제가 본 논문을 의미합니다.
+* lihgt_link는 빠르게 개념(abstract)정도로 본 논문을 의미합니다.
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
@@ -206,6 +206,7 @@
 * DSSD : Deconvolutional Single Shot Detector: [[paper]](https://arxiv.org/abs/1701.06659)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/62)
 * Feature-fused SSD: fast detection for small objects : [[paper]](https://arxiv.org/abs/1709.05054)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/155)
 * EfficientDet ： Scalable and Efficient Object Detection :  [[paper]](https://arxiv.org/abs/1911.09070) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/253) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/253)
+* FCOS: Fully Convolutional One-Stage Object Detection : [[paper]](https://arxiv.org/abs/1904.01355) [[light_review]](* https://github.com/chullhwan-song/Reading-Paper/issues/385)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
