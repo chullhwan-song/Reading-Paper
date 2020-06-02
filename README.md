@@ -206,7 +206,7 @@
 * DSSD : Deconvolutional Single Shot Detector: [[paper]](https://arxiv.org/abs/1701.06659)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/62)
 * Feature-fused SSD: fast detection for small objects : [[paper]](https://arxiv.org/abs/1709.05054)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/155)
 * EfficientDet ： Scalable and Efficient Object Detection :  [[paper]](https://arxiv.org/abs/1911.09070) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/253) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/253)
-* FCOS: Fully Convolutional One-Stage Object Detection : [[paper]](https://arxiv.org/abs/1904.01355) [[light_review]](* https://github.com/chullhwan-song/Reading-Paper/issues/385)
+* FCOS: Fully Convolutional One-Stage Object Detection : [[paper]](https://arxiv.org/abs/1904.01355) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/385)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
