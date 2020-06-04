@@ -1,4 +1,4 @@
-# Paper Review : My:[124], My_Light:[3], Link:[15], 
+# Paper Review : My:[124], My_Light:[4], Link:[15], 
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
 * 리뷰가 끝나더라도 계속 의문/생각/교정/좋은자료가 있다면 꾸준히 업데이트 됩니다.
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
@@ -44,6 +44,7 @@
 * Image Retrieval using Multi-scale CNN Features Pooling: [[paper]](https://arxiv.org/abs/2004.09695)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/372)
 * MultiGrain: a unified image embedding for classes and instances: [[paper]](https://arxiv.org/abs/1902.05509)[[link_review]](https://norman3.github.io/papers/docs/multigrain)
 * Divide and Conquer the Embedding Space for Metric Learning: [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/387)
+* An Effective Pipeline for a Real-world Clothes Retrieval System: [[paper]](https://arxiv.org/abs/2005.12739)[[l_review]](https://github.com/chullhwan-song/Reading-Paper/issues/386)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
