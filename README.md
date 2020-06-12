@@ -9,8 +9,9 @@
 * Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
 * Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
 * 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
-* 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
-* End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/90)
+* NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition : [[paper]](https://arxiv.org/abs/1806.00926)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/221)
+* On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention  : [[paper]](https://arxiv.org/abs/1910.04396)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/220)
+* End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
 
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
