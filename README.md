@@ -5,7 +5,13 @@
 * lihgt_link는 빠르게 개념(abstract)정도로 본 논문을 의미합니다.
 
 ## Visual Transformers (일단 정리만)
-* Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
+* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
+* Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
+* Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
+* 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
+* 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
+* End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/90)
+
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
