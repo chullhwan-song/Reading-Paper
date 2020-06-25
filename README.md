@@ -11,6 +11,7 @@
 * Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1406.6909)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/396)
 * Rethinking Pre-training and Self-training : [[paper]](https://arxiv.org/abs/2006.06)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/397)
 * Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
+* Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 
 ## Visual Transformers (일단 정리만)
 * Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
