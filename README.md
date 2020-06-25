@@ -4,6 +4,14 @@
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
 * lihgt_link는 빠르게 개념(abstract)정도로 본 논문을 의미합니다.
 
+## Self Supervised Learninig (일단 정리만)
+* Unsupervised Representation Learning by Predicting Image Rotations  : [[paper]](https://arxiv.org/abs/1803.07728)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/393)
+* Unsupervised Visual Representation Learning by Context Prediction : [[paper]](https://arxiv.org/abs/1505.05192)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/394)
+* Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles : [[paper]](https://arxiv.org/abs/1603.09246)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/395)
+* Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1406.6909)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/396)
+* Rethinking Pre-training and Self-training : [[paper]](https://arxiv.org/abs/2006.06)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/397)
+* Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
+
 ## Visual Transformers (일단 정리만)
 * Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
 * Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
