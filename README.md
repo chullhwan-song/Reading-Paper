@@ -72,7 +72,7 @@
 
 ## Fashion Image Retrieval
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
-* Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1803.09196)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
+* Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
 
 ## Fashion Recommendation
 * FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
