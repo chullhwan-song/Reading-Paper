@@ -21,6 +21,7 @@
 * NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition : [[paper]](https://arxiv.org/abs/1806.00926)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/221)
 * On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention  : [[paper]](https://arxiv.org/abs/1910.04396)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/220)
 * End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
+* Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877)
 
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
