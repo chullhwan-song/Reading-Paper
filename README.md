@@ -15,17 +15,15 @@
 * Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 
 ## Vision Transformers (일단 정리만)
-* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
-* Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
-* Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
-* 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
-* NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition : [[paper]](https://arxiv.org/abs/1806.00926)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/221)
-* On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention  : [[paper]](https://arxiv.org/abs/1910.04396)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/220)
-* End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
-* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale : [[paper]](https://arxiv.org/abs/2010.11929)
+
+
+
+
 * Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877)
 
 ## Vision Transformers  classification
+* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
+* Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
 * ViT:An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: [[paper]](https://arxiv.org/abs/2010.11929)
 * Bottleneck Transformers for Visual Recognition: [[paper]](https://arxiv.org/abs/2101.11605)
 * Going deeper with Image Transformers: [[paper]](https://arxiv.org/abs/2103.17239)
@@ -112,18 +110,26 @@
 * TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval: [[paper]](https://arxiv.org/abs/2105.01823)
 
 ## Vision Transformers segmentation and detection
-* ISTR: End-to-End Instance Segmentation with Transformers: [[paper]](https://arxiv.org/abs/2105.00637)
 * CoSformer: Detecting Co-Salient Object with Transformers: [[paper]](https://arxiv.org/abs/2104.14729)
 * MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding: [[paper]](https://arxiv.org/abs/2104.12763)
 * Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks: [[paper]](https://arxiv.org/abs/2105.02358)
 * Medical Image Segmentation Using Squeeze-and-Expansion Transformers: [[paper]](https://arxiv.org/abs/2105.09511)
 * SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers: [[paper]](https://arxiv.org/abs/2105.15203)
+* Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
+* detr:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
 
 ## Vision Transformers video
 * An Image is Worth 16x16 Words, What is a Video Worth?: [[paper]](https://arxiv.org/abs/2103.13915)
 
 ## Vision Transformers face
 * Robust Facial Expression Recognition with Convolutional Visual Transformers: [[paper]](https://arxiv.org/abs/2103.16854)
+
+## Vision Transformers OCR
+* NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition : [[paper]](https://arxiv.org/abs/1806.00926)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/221)
+* On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention  : [[paper]](https://arxiv.org/abs/1910.04396)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/220)
+* 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
+
+## Vision Transformers multi-modal
 
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
