@@ -80,8 +80,8 @@
 * The Image Local Autoregressive Transformer: [[paper]](https://arxiv.org/abs/2106.02514)
 * Glance-and-Gaze Vision Transformer: [[paper]](https://arxiv.org/abs/2106.02277)
 * Semantic Correspondence with Transformers: [[paper]](https://arxiv.org/abs/2106.02520)
-* DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification: [[paper]](https://arxiv.org/abs/2106.02034]
-* When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations: [[paper]](https://arxiv.org/abs/2106.01548]
+* DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification: [[paper]](https://arxiv.org/abs/2106.02034)
+* When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations: [[paper]](https://arxiv.org/abs/2106.01548)
 * Pay Attention to MLPs: [[paper]](https://arxiv.org/abs/2105.08050)
 * KVT: k-NN Attention for Boosting Vision Transformers: [[paper]](https://arxiv.org/abs/2106.00515)
 * Less is More: Pay Less Attention in Vision Transformers: [[paper]](https://arxiv.org/abs/2105.14217)
