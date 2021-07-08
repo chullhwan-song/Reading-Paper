@@ -14,14 +14,8 @@
 * Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
 * Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 
-## Vision Transformers (일단 정리만)
-
-
-
-
-* Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877)
-
 ## Vision Transformers  classification
+* Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877)
 * Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
 * Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
 * ViT:An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: [[paper]](https://arxiv.org/abs/2010.11929)
