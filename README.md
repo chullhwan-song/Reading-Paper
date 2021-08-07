@@ -192,6 +192,8 @@
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
 * Feature Learning based Deep Supervised Hashing with Pairwise Labels : [[paper]](https://arxiv.org/abs/1511.03855)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/79)
 * Deep Supervised Hashing with Triplet Labels : [[paper]](https://arxiv.org/abs/1612.03900)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/86)
+* Online Hashing with Similarity Learning : [[paper]](https://arxiv.org/abs/2108.02560)
+
 
 ## Video Classification
 * NetVLAD: CNN architecture for weakly supervised place recognition : [[paper]](https://arxiv.org/abs/1511.07247)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/3)
@@ -250,8 +252,6 @@
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1905.11946) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/255)
 * Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 * Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
-
-
 
 ## Transfer Learning
 * Taskonomy: Disentangling Task Transfer Learning : [[paper]](https://arxiv.org/abs/1804.08328)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/45)
