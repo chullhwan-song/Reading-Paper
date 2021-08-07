@@ -7,6 +7,7 @@
 
 ## Knowledge distillation
 * Knowledge distillation: A good teacher is patient and consistent : [[paper]](https://arxiv.org/abs/2106.05237)
+* Hierarchical Self-supervised Augmented Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.13715)
 
 
 ## Self Supervised Learninig
@@ -104,6 +105,8 @@
 * Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer : [[paper]](https://arxiv.org/abs/2108.01390)
 * DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
 * S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2108.01072)
+* CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
+* Rethinking and Improving Relative Position Encoding for Vision Transformer : [[paper]](https://arxiv.org/abs/2107.14222) 
 
 
 ## Vision Transformers  retrieval 
@@ -122,6 +125,7 @@
 * Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
 * detr:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
 * Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
+* A Unified Efficient Pyramid Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2107.14209)
 
 
 ## Vision Transformers video
@@ -137,6 +141,8 @@
 * 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
 
 ## Vision Transformers multi-modal
+* Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
+* ReFormer: The Relational Transformer for Image Captioning : [[paper]](https://arxiv.org/abs/2107.14178)
 
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
