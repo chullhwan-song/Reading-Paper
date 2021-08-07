@@ -5,9 +5,17 @@
 * lihgt_link는 빠르게 개념(abstract)정도로 본 논문을 의미.
 * 현재 상황이 리뷰 공개를 못하고 있는 상황이라, 논문 링크로만 정리진행합니다.
 
+## Multi-Label Image Recognition
+* Learning Discriminative Representations for Multi-Label Image Recognition : [[paper]](https://arxiv.org/abs/2107.11159)
+
 ## Knowledge distillation
 * Knowledge distillation: A good teacher is patient and consistent : [[paper]](https://arxiv.org/abs/2106.05237)
 * Hierarchical Self-supervised Augmented Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.13715)
+* Text is Text, No Matter What: Unifying Text Recognition using Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.12087)
+
+## CLIP
+* How Much Can CLIP Benefit Vision-and-Language Tasks? : [[paper]](https://arxiv.org/abs/2107.12087)
+
 
 
 ## Self Supervised Learninig
@@ -62,7 +70,6 @@
 * Conformer: Local Features Coupling Global Representations for Visual Recognition: [[paper]](https://arxiv.org/abs/2105.03889)
 * Self-Supervised Learning with Swin Transformers: [[paper]](https://arxiv.org/abs/2105.04553)
 * Are Pre-trained Convolutions Better than Pre-trained Transformers?: [[paper]](https://arxiv.org/abs/2105.03322)
-* ResMLP: Feedforward networks for image classification with data-efficient training: [[paper]](https://arxiv.org/abs/2105.03404)
 * LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference: [[paper]](https://arxiv.org/abs/2104.01136)
 * Are Convolutional Neural Networks or Transformers more like human vision?: [[paper]](https://arxiv.org/abs/2105.07197)
 * Rethinking Skip Connection with Layer Normalization in Transformers and ResNets: [[paper]](https://arxiv.org/abs/2105.07205)
@@ -79,7 +86,6 @@
 * Semantic Correspondence with Transformers: [[paper]](https://arxiv.org/abs/2106.02520)
 * DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification: [[paper]](https://arxiv.org/abs/2106.02034)
 * When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations: [[paper]](https://arxiv.org/abs/2106.01548)
-* Pay Attention to MLPs: [[paper]](https://arxiv.org/abs/2105.08050)
 * KVT: k-NN Attention for Boosting Vision Transformers: [[paper]](https://arxiv.org/abs/2106.00515)
 * Less is More: Pay Less Attention in Vision Transformers: [[paper]](https://arxiv.org/abs/2105.14217)
 * FoveaTer: Foveated Transformer for Image Classification: [[paper]](https://arxiv.org/abs/2105.14173)
@@ -104,12 +110,40 @@
 * Bottleneck Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2101.11605)
 * Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer : [[paper]](https://arxiv.org/abs/2108.01390)
 * DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
-* S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2108.01072)
 * CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
 * Rethinking and Improving Relative Position Encoding for Vision Transformer : [[paper]](https://arxiv.org/abs/2107.14222) 
+* Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
+* BEiT: BERT Pre-Training of Image Transformers : [[paper]](https://arxiv.org/abs/2106.08254) 
+* PVTv2: Improved Baselines with Pyramid Vision Transformer : [[paper]](https://arxiv.org/abs/2106.13797) 
+* Thinking Like Transformers : [[paper]](https://arxiv.org/abs/2106.06981) 
+* CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652) 
+* CMT: Convolutional Neural Networks Meet Vision Transformers : [[paper]](https://arxiv.org/abs/2107.06263) 
+* Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition : [[paper]](https://arxiv.org/abs/2107.06538) 
+* ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias : [[paper]](https://arxiv.org/abs/2106.03348) 
+* Visual Transformer Pruning : [[paper]](https://arxiv.org/abs/2104.08500) 
+* Rethinking Positional Encoding : [[paper]](https://arxiv.org/abs/2107.02561) 
+* Local-to-Global Self-Attention in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.04735) 
+* ResT: An Efficient Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.13677) 
+* Feature Fusion Vision Transformer for Fine-Grained Visual Categorization : [[paper]](https://arxiv.org/abs/2107.02341) 
+* Vision Xformers: Efficient Attention for Image Classification : [[paper]](https://arxiv.org/abs/2107.02239) 
+* EsViT : Efficient Self-supervised Vision Transformers for Representation Learning : [[paper]](https://arxiv.org/abs/2106.09785) 
+* GLiT: Neural Architecture Search for Global and Local Image Transformer : [[paper]](https://arxiv.org/abs/2107.02960) 
+* Efficient Vision Transformers via Fine-Grained Manifold Distillation : [[paper]](https://arxiv.org/abs/2107.01378) 
+* What Makes for Hierarchical Vision Transformer? : [[paper]](https://arxiv.org/abs/2107.02174) 
+* AutoFormer: Searching Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.00651) 
+* Are Convolutional Neural Networks or Transformers more like human vision? : [[paper]](https://arxiv.org/abs/2105.07197) 
+* Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) 
 
 
-## Vision Transformers  retrieval 
+
+## Vision Transformers vs MLP
+* AS-MLP: An Axial Shifted MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2107.08391) 
+* S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2108.01072)
+* ResMLP: Feedforward networks for image classification with data-efficient training: [[paper]](https://arxiv.org/abs/2105.03404)
+* Pay Attention to MLPs: [[paper]](https://arxiv.org/abs/2105.08050)
+
+
+## Vision Transformers retrieval 
 * Investigating the Vision Transformer Model for Image Retrieval Tasks: [[paper]](https://arxiv.org/abs/2101.03771)
 * Training Vision Transformers for Image Retrieval: [[paper]](https://arxiv.org/abs/2102.05644)
 * Instance-level Image Retrieval using Reranking Transformers: [[paper]](https://arxiv.org/abs/2103.12236)
@@ -126,6 +160,9 @@
 * detr:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
 * Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
 * A Unified Efficient Pyramid Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2107.14209)
+* Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
+* MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers : [[paper]](https://arxiv.org/abs/2012.00759) 
+
 
 
 ## Vision Transformers video
@@ -133,7 +170,8 @@
 * Token Shift Transformer for Video Classification : [[paper]](https://arxiv.org/abs/2108.02432)
 
 ## Vision Transformers face
-* Robust Facial Expression Recognition with Convolutional Visual Transformers: [[paper]](https://arxiv.org/abs/2103.16854)
+* Robust Facial Expression Recognition with Convolutional Visual Transformers : [[paper]](https://arxiv.org/abs/2103.16854)
+* Learning Vision Transformer with Squeeze and Excitation for Facial Expression Recognition : [[paper]](https://arxiv.org/abs/2107.03107)
 
 ## Vision Transformers OCR
 * NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition : [[paper]](https://arxiv.org/abs/1806.00926)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/221)
@@ -143,6 +181,14 @@
 ## Vision Transformers multi-modal
 * Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
 * ReFormer: The Relational Transformer for Image Captioning : [[paper]](https://arxiv.org/abs/2107.14178)
+* Long-Short Transformer: Efficient Transformers for Language and Vision : [[paper]](https://arxiv.org/abs/2107.02192)
+
+## Vision Transformers GAN
+* A Hierarchical Transformation-Discriminating Generative Model for Few Shot Anomaly Detection : [[paper]](https://arxiv.org/abs/2104.14535)
+* ViTGAN: Training GANs with Vision Transformers : [[paper]](https://arxiv.org/abs/2107.04589)
+* Styleformer: Transformer based Generative Adversarial Networks with Style Vector : [[paper]](https://arxiv.org/abs/2106.07023)
+
+
 
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
@@ -193,6 +239,8 @@
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
 * Sampling Matters in Deep Embedding Learning : [[paper]](https://arxiv.org/abs/1706.07567)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/324)
+* Online Progressive Deep Metric Learning : [[paper]](https://arxiv.org/abs/1805.05510) 
+
 
 ## Fashion Image Retrieval
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
@@ -341,6 +389,8 @@
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
 * Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) 
+* Effects of Image Size on Deep Learning : [[paper]](https://arxiv.org/abs/2101.11508)
+
 
 ## Localization
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
