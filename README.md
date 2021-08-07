@@ -102,6 +102,8 @@
 * Vision Transformer with Progressive Sampling : [[paper]](https://arxiv.org/abs/2108.01684)
 * Bottleneck Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2101.11605)
 * Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer : [[paper]](https://arxiv.org/abs/2108.01390)
+* DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
+* S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2108.01072)
 
 
 ## Vision Transformers  retrieval 
@@ -109,7 +111,7 @@
 * Training Vision Transformers for Image Retrieval: [[paper]](https://arxiv.org/abs/2102.05644)
 * Instance-level Image Retrieval using Reranking Transformers: [[paper]](https://arxiv.org/abs/2103.12236)
 * Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval: [[paper]](https://arxiv.org/abs/2103.11920)
-* TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval: [[paper]](https://arxiv.org/abs/2105.01823)
+* TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval : [[paper]](https://arxiv.org/abs/2105.01823)
 
 ## Vision Transformers segmentation and detection
 * CoSformer: Detecting Co-Salient Object with Transformers: [[paper]](https://arxiv.org/abs/2104.14729)
