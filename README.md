@@ -13,9 +13,8 @@
 * Hierarchical Self-supervised Augmented Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.13715)
 * Text is Text, No Matter What: Unifying Text Recognition using Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.12087)
 
-## CLIP
+## CLIP & joined multi-modal
 * How Much Can CLIP Benefit Vision-and-Language Tasks? : [[paper]](https://arxiv.org/abs/2107.12087)
-
 
 
 ## Self Supervised Learninig
@@ -135,7 +134,6 @@
 * Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) 
 
 
-
 ## Vision Transformers vs MLP
 * AS-MLP: An Axial Shifted MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2107.08391) 
 * S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2108.01072)
@@ -164,7 +162,6 @@
 * MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers : [[paper]](https://arxiv.org/abs/2012.00759) 
 
 
-
 ## Vision Transformers video
 * An Image is Worth 16x16 Words, What is a Video Worth?: [[paper]](https://arxiv.org/abs/2103.13915)
 * Token Shift Transformer for Video Classification : [[paper]](https://arxiv.org/abs/2108.02432)
@@ -191,7 +188,7 @@
 
 
 
-## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) & Deep Feature
+## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) (Instance level Image Retrieval) & Deep Feature 
 * Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
 * NetVLAD: CNN architecture for weakly supervised place recognition : [[paper]](https://arxiv.org/abs/1511.07247)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/3)
 * Learning visual similarity for product design with convolutional neural networks : [[paper]](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/7) 
@@ -233,6 +230,10 @@
 * Divide and Conquer the Embedding Space for Metric Learning: [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/387)
 * An Effective Pipeline for a Real-world Clothes Retrieval System: [[paper]](https://arxiv.org/abs/2005.12739)[[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/386)
 * Instance Similarity Learning for Unsupervised Feature Representation : [[paper]](https://arxiv.org/abs/2108.02721)
+* Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
+* eProduct: A Million-Scale Visual Search Benchmark to Address Product Recognition Challenges : [[paper]](https://arxiv.org/abs/2107.05856)
+* Towards Accurate Localization by Instance Search : [[paper]](https://arxiv.org/abs/2107.05005)
+* The 2021 Image Similarity Dataset and Challenge : [[paper]](https://arxiv.org/abs/2106.09672)
 
 
 ## Metric Learning
