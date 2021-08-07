@@ -111,9 +111,12 @@
 * SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers: [[paper]](https://arxiv.org/abs/2105.15203)
 * Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
 * detr:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
+* Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
+
 
 ## Vision Transformers video
 * An Image is Worth 16x16 Words, What is a Video Worth?: [[paper]](https://arxiv.org/abs/2103.13915)
+* Token Shift Transformer for Video Classification : [[paper]](https://arxiv.org/abs/2108.02432)
 
 ## Vision Transformers face
 * Robust Facial Expression Recognition with Convolutional Visual Transformers: [[paper]](https://arxiv.org/abs/2103.16854)
@@ -167,6 +170,8 @@
 * MultiGrain: a unified image embedding for classes and instances: [[paper]](https://arxiv.org/abs/1902.05509)[[link_review]](https://norman3.github.io/papers/docs/multigrain)
 * Divide and Conquer the Embedding Space for Metric Learning: [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/387)
 * An Effective Pipeline for a Real-world Clothes Retrieval System: [[paper]](https://arxiv.org/abs/2005.12739)[[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/386)
+* Instance Similarity Learning for Unsupervised Feature Representation : [[paper]](https://arxiv.org/abs/2108.02721)
+
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
