@@ -226,6 +226,8 @@
 * Synthetically Supervised Feature Learning for Scene Text Recognition : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
 * FOTS: Fast Oriented Text Spotting with a Unified Network : [[paper]](https://arxiv.org/abs/1801.01671)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/107)
 * Robust Scene Text Recognition with Automatic Rectification : [[paper]](https://arxiv.org/abs/1603.03915)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/124)
+* Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition : [[paper]](https://arxiv.org/abs/2107.12090)
+
 
 ## [OCR](https://github.com/chullhwan-song/OCR) - Detection 
 * PixelLink: Detecting Scene Text via Instance Segmentation : [[paper]](https://arxiv.org/abs/1801.01315)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/71)
@@ -296,7 +298,9 @@
 ## Face
 * FaceNet: A Unified Embedding for Face Recognition and Clustering : [[paper]](https://arxiv.org/abs/1503.03832)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/43)
 * The Devil of Face Recognition is in the Noise : [[paper]](https://arxiv.org/abs/1807.11649)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/41)
-* Revisiting a single-stage method for face detection: [[paper]](https://arxiv.org/abs/1902.01559)[[review](https://github.com/chullhwan-song/Reading-Paper/issues/77)
+* Revisiting a single-stage method for face detection : [[paper]](https://arxiv.org/abs/1902.01559)[[review](https://github.com/chullhwan-song/Reading-Paper/issues/77)
+* MixFaceNets: Extremely Efficient Face Recognition Networks : [[paper]](https://arxiv.org/abs/2107.13046)
+
 
 ## Pose Estimation
 * Convolutional Pose Machines : [[paper]](https://arxiv.org/abs/1602.00134)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/48)
