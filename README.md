@@ -5,7 +5,11 @@
 * lihgt_link는 빠르게 개념(abstract)정도로 본 논문을 의미.
 * 현재 상황이 리뷰 공개를 못하고 있는 상황이라, 논문 링크로만 정리진행합니다.
 
-## Self Supervised Learninig (일단 정리만)
+## Knowledge distillation
+* Knowledge distillation: A good teacher is patient and consistent : [[paper]](https://arxiv.org/abs/2106.05237)
+
+
+## Self Supervised Learninig
 * Unsupervised Representation Learning by Predicting Image Rotations  : [[paper]](https://arxiv.org/abs/1803.07728)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/393)
 * Unsupervised Visual Representation Learning by Context Prediction : [[paper]](https://arxiv.org/abs/1505.05192)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/394)
 * Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles : [[paper]](https://arxiv.org/abs/1603.09246)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/395)
@@ -94,6 +98,10 @@
 * Vision Transformers are Robust Learners: [[paper]](https://arxiv.org/abs/2105.07581)
 * Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer: [[paper]](https://arxiv.org/abs/2106.03650)
 * A Survey of Transformers: [[paper]](https://arxiv.org/abs/2106.04554)
+* Armour: Generalizable Compact Self-Attention for Vision Transformers : [[paper]](https://arxiv.org/abs/2108.01778)
+* Vision Transformer with Progressive Sampling : [[paper]](https://arxiv.org/abs/2108.01684)
+* Bottleneck Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2101.11605)
+* Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer : [[paper]](https://arxiv.org/abs/2108.01390)
 
 
 ## Vision Transformers  retrieval 
