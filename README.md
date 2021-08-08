@@ -107,7 +107,6 @@
 * A Survey of Transformers: [[paper]](https://arxiv.org/abs/2106.04554)
 * Armour: Generalizable Compact Self-Attention for Vision Transformers : [[paper]](https://arxiv.org/abs/2108.01778)
 * Vision Transformer with Progressive Sampling : [[paper]](https://arxiv.org/abs/2108.01684)
-* Bottleneck Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2101.11605)
 * Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer : [[paper]](https://arxiv.org/abs/2108.01390)
 * DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
 * CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
