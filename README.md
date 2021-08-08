@@ -27,9 +27,9 @@
 * Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 
 ## Vision Transformers  classification
-* Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877)
-* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
-* Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
+* DeiT : Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877) [[link_review]](https://housekdk.gitbook.io/ml/ml/computer-vision-transformer-based/deit-training-data-efficient-image-transformers-and-distillation-through-attention) [[link_review]](https://sungminlee0810.github.io/paper_review/classification/distillation/tech-post/) [[link_review]](https://deep-learning-study.tistory.com/806) [[link_review]](https://visionhong.tistory.com/29)
+* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154) [[link_review]](https://hulk89.github.io/machine%20learning/2019/09/10/Stand-Alone-Self-Attention-In-Vision-Models/) [[link_review]](https://hulk89.github.io/machine%20learning/2019/09/10/Stand-Alone-Self-Attention-In-Vision-Models/) [[link_review]](https://cool24151.tistory.com/99) [[link_review]](http://dsba.korea.ac.kr/seminar/?mod=document&uid=31) [[link_review]](https://dreambreaker-ds.tistory.com/entry/Stand-Alone-Self-Attention-in-Visual-Models) [[link_review]](https://ko-kr.facebook.com/groups/TensorFlowKR/permalink/930891160585276/) [[link_review]](https://comlini8-8.tistory.com/37)
+* Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://flonelin.wordpress.com/2019/09/12/stand-alone-self-attention-in-vision/) 
 * ViT:An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: [[paper]](https://arxiv.org/abs/2010.11929)
 * Bottleneck Transformers for Visual Recognition: [[paper]](https://arxiv.org/abs/2101.11605)
 * Going deeper with Image Transformers: [[paper]](https://arxiv.org/abs/2103.17239)
