@@ -226,7 +226,7 @@
 * Detect-to-Retrieve: Efficient Regional Aggregation for Image Search:[[paper]](https://arxiv.org/abs/1812.01584)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/141)
 * Local Features and Visual Words Emerge in Activations:[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/150)
 * Image Retrieval using Multi-scale CNN Features Pooling: [[paper]](https://arxiv.org/abs/2004.09695)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/372)
-* MultiGrain: a unified image embedding for classes and instances: [[paper]](https://arxiv.org/abs/1902.05509)[[link_review]](https://norman3.github.io/papers/docs/multigrain)
+* MultiGrain: a unified image embedding for classes and instances: [[paper]](https://arxiv.org/abs/1902.05509)[[link_review]](https://norman3.github.io/papers/docs/multigrain) [[link_review]](https://github-wiki-see.page/m/penny4860/study-note/wiki/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D-MultiGrain-%3A-a-unified-image-embedding-for-classes-and-instances)
 * Divide and Conquer the Embedding Space for Metric Learning: [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/387)
 * An Effective Pipeline for a Real-world Clothes Retrieval System: [[paper]](https://arxiv.org/abs/2005.12739)[[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/386)
 * Instance Similarity Learning for Unsupervised Feature Representation : [[paper]](https://arxiv.org/abs/2108.02721)
