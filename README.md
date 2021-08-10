@@ -155,7 +155,7 @@
 * Medical Image Segmentation Using Squeeze-and-Expansion Transformers: [[paper]](https://arxiv.org/abs/2105.09511)
 * SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers: [[paper]](https://arxiv.org/abs/2105.15203)
 * Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
-* detr:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/390)
+* detr:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers)[[link_review]](https://amaarora.github.io/2021/07/26/annotateddetr.html)
 * Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
 * A Unified Efficient Pyramid Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2107.14209)
 * Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
