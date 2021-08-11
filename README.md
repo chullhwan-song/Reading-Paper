@@ -40,7 +40,7 @@
 * Understanding Robustness of Transformers for Image Classification : [[paper]](https://arxiv.org/abs/2103.14586)
 * DeepViT: Towards Deeper Vision Transformer : [[paper]](https://arxiv.org/abs/2103.11886)
 * CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification : [[paper]](https://arxiv.org/abs/2103.14899)
-* CvT: Introducing Convolutions to Vision Transformers: [[paper]](https://arxiv.org/abs/2103.15808)
+* CvT: Introducing Convolutions to Vision Transformers: [[paper]](https://arxiv.org/abs/2103.15808)  [[link_review]](https://deep-learning-study.tistory.com/816) 
 * Efficient Feature Transformations for Discriminative and Generative Continual Learning : [[paper]](https://arxiv.org/abs/2103.13558)
 * Swin Transformer: Hierarchical Vision Transformer using Shifted Windows : [[paper]](https://arxiv.org/abs/2103.14030)
 * Can Vision Transformers Learn without Natural Images?: [[paper]](https://arxiv.org/abs/2103.13023)
