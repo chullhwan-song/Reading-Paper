@@ -5,6 +5,12 @@
 * lihgt_link는 빠르게 개념(abstract)정도로 본 논문을 의미.
 * 현재 상황이 리뷰 공개를 못하고 있는 상황이라, 논문 링크로만 정리진행합니다.
 
+## Deep Learning
+* Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
+* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) 
+* Effects of Image Size on Deep Learning : [[paper]](https://arxiv.org/abs/2101.11508)
+* Inductive Bias : [[link_review]](https://velog.io/@euisuk-chung/Inductive-Bias%EB%9E%80) 
+
 ## Multi-Label Image Recognition
 * Learning Discriminative Representations for Multi-Label Image Recognition : [[paper]](https://arxiv.org/abs/2107.11159)
 
@@ -386,12 +392,6 @@
 * Fully Convolutional Networks for Semantic Segmentation : [[paper]](https://arxiv.org/abs/1411.4038)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/74)
 * Cascade Decoder: A Universal Decoding Method for Biomedical Image Segmentation : [[paper]](https://arxiv.org/abs/1901.04949)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/91)
 * FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference : [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/139)
-
-## Deep Learning
-* Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
-* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) 
-* Effects of Image Size on Deep Learning : [[paper]](https://arxiv.org/abs/2101.11508)
-
 
 ## Localization
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
