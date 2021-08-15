@@ -58,7 +58,7 @@
 * Transformer in Transformer: [[paper]](https://arxiv.org/abs/2103.00112)
 * A Survey on Visual Transformer: [[paper]](https://arxiv.org/abs/2012.12556)
 * Co-Scale Conv-Attentional Image Transformers: [[paper]](https://arxiv.org/abs/2104.06399)
-* Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity : [[paper]](https://arxiv.org/abs/2101.03961)
+* Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity : [[paper]](https://arxiv.org/abs/2101.03961) [[link_review]](https://www.slideshare.net/hoondori97/switch-transformers-paper-review) 
 * Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet: [[paper]](https://arxiv.org/abs/2105.02723)
 * DeiT:Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877)
 * LocalViT: Bringing Locality to Vision Transformers : [[paper]](https://arxiv.org/abs/2104.05707)
