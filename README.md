@@ -55,7 +55,7 @@
 * ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases : [[paper]](https://arxiv.org/abs/2103.10697)
 * Explicitly Modeled Attention Maps for Image Classification : [[paper]](https://arxiv.org/abs/2006.07872)
 * Conditional Positional Encodings for Vision Transformers : [[paper]](https://arxiv.org/abs/2102.10882)
-* Transformer in Transformer: [[paper]](https://arxiv.org/abs/2103.00112)
+* Transformer in Transformer: [[paper]](https://arxiv.org/abs/2103.00112) [[link_review]](https://medium.com/@nabil.madali/transformer-in-transformer-a36d1a7845b8) 
 * A Survey on Visual Transformer: [[paper]](https://arxiv.org/abs/2012.12556)
 * Co-Scale Conv-Attentional Image Transformers: [[paper]](https://arxiv.org/abs/2104.06399)
 * Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity : [[paper]](https://arxiv.org/abs/2101.03961) [[link_review]](https://www.slideshare.net/hoondori97/switch-transformers-paper-review) 
