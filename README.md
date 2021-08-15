@@ -60,7 +60,6 @@
 * Co-Scale Conv-Attentional Image Transformers: [[paper]](https://arxiv.org/abs/2104.06399)
 * Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity : [[paper]](https://arxiv.org/abs/2101.03961) [[link_review]](https://www.slideshare.net/hoondori97/switch-transformers-paper-review) 
 * LocalViT: Bringing Locality to Vision Transformers : [[paper]](https://arxiv.org/abs/2104.05707)
-* Improve Vision Transformers Training by Suppressing Over-smoothing : [[paper]](https://arxiv.org/pdf/2104.12753.pdf)
 * Visformer: The Vision-friendly Transformer : [[paper]](https://arxiv.org/pdf/2104.12533.pdf)
 * Multiscale Vision Transformers : [[paper]](https://arxiv.org/abs/2104.11227)
 * So-ViT: Mind Visual Tokens for Vision Transformer: [[paper]](https://arxiv.org/abs/2104.10935)
@@ -166,6 +165,8 @@
 * Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
 * MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers : [[paper]](https://arxiv.org/abs/2012.00759) 
 * Vision Transformers with Patch Diversification : [[paper]](https://arxiv.org/abs/2104.12753) 
+* Improve Vision Transformers Training by Suppressing Over-smoothing : [[paper]](https://arxiv.org/abs/2104.12753v1)
+
 
 ## Vision Transformers video
 * An Image is Worth 16x16 Words, What is a Video Worth?: [[paper]](https://arxiv.org/abs/2103.13915)
