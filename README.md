@@ -165,7 +165,7 @@
 * A Unified Efficient Pyramid Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2107.14209)
 * Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
 * MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers : [[paper]](https://arxiv.org/abs/2012.00759) 
-
+* Vision Transformers with Patch Diversification : [[paper]](https://arxiv.org/abs/2104.12753) 
 
 ## Vision Transformers video
 * An Image is Worth 16x16 Words, What is a Video Worth?: [[paper]](https://arxiv.org/abs/2103.13915)
