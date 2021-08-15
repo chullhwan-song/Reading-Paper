@@ -63,7 +63,7 @@
 * Visformer: The Vision-friendly Transformer : [[paper]](https://arxiv.org/pdf/2104.12533.pdf)
 * Multiscale Vision Transformers : [[paper]](https://arxiv.org/abs/2104.11227) [[link_review]](https://www.marktechpost.com/2021/08/13/facebook-ai-introduces-multiscale-vision-transformers-mvit-a-transformer-architecture-for-representation-learning-from-visual-data/)  [[link_review]](https://hugrypiggykim.com/2021/08/08/multiscale-vision-transformersmvit/)
 * So-ViT: Mind Visual Tokens for Vision Transformer: [[paper]](https://arxiv.org/abs/2104.10935)
-* Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet: [[paper]](https://arxiv.org/abs/2104.10858)
+* Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet (이후 "All Tokens Matter: Token Labeling for Training Better Vision Transformers 변경"): [[paper]](https://arxiv.org/abs/2104.10858)
 * Fourier Image Transformer: [[paper]](https://arxiv.org/abs/2104.02555)
 * Emerging Properties in Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.14294)
 * ConTNet: Why not use convolution and transformer at the same time?: [[paper]](https://arxiv.org/abs/2104.13497)
