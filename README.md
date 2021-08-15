@@ -61,7 +61,7 @@
 * Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity : [[paper]](https://arxiv.org/abs/2101.03961) [[link_review]](https://www.slideshare.net/hoondori97/switch-transformers-paper-review) 
 * LocalViT: Bringing Locality to Vision Transformers : [[paper]](https://arxiv.org/abs/2104.05707)
 * Visformer: The Vision-friendly Transformer : [[paper]](https://arxiv.org/pdf/2104.12533.pdf)
-* Multiscale Vision Transformers : [[paper]](https://arxiv.org/abs/2104.11227)
+* Multiscale Vision Transformers : [[paper]](https://arxiv.org/abs/2104.11227) [[link_review]](https://www.marktechpost.com/2021/08/13/facebook-ai-introduces-multiscale-vision-transformers-mvit-a-transformer-architecture-for-representation-learning-from-visual-data/)  [[link_review]](https://hugrypiggykim.com/2021/08/08/multiscale-vision-transformersmvit/)
 * So-ViT: Mind Visual Tokens for Vision Transformer: [[paper]](https://arxiv.org/abs/2104.10935)
 * Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet: [[paper]](https://arxiv.org/abs/2104.10858)
 * Fourier Image Transformer: [[paper]](https://arxiv.org/abs/2104.02555)
