@@ -59,7 +59,6 @@
 * A Survey on Visual Transformer: [[paper]](https://arxiv.org/abs/2012.12556)
 * Co-Scale Conv-Attentional Image Transformers: [[paper]](https://arxiv.org/abs/2104.06399)
 * Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity : [[paper]](https://arxiv.org/abs/2101.03961) [[link_review]](https://www.slideshare.net/hoondori97/switch-transformers-paper-review) 
-* Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet: [[paper]](https://arxiv.org/abs/2105.02723)
 * DeiT:Training data-efficient image transformers & distillation through attention : [[paper]](https://arxiv.org/abs/2012.12877)
 * LocalViT: Bringing Locality to Vision Transformers : [[paper]](https://arxiv.org/abs/2104.05707)
 * Improve Vision Transformers Training by Suppressing Over-smoothing : [[paper]](https://arxiv.org/pdf/2104.12753.pdf)
@@ -145,6 +144,7 @@
 * S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2108.01072)
 * ResMLP: Feedforward networks for image classification with data-efficient training: [[paper]](https://arxiv.org/abs/2105.03404)
 * Pay Attention to MLPs: [[paper]](https://arxiv.org/abs/2105.08050)
+* Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet: [[paper]](https://arxiv.org/abs/2105.02723)
 
 
 ## Vision Transformers retrieval 
