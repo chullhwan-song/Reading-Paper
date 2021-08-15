@@ -65,7 +65,6 @@
 * Multiscale Vision Transformers : [[paper]](https://arxiv.org/abs/2104.11227)
 * So-ViT: Mind Visual Tokens for Vision Transformer: [[paper]](https://arxiv.org/abs/2104.10935)
 * Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet: [[paper]](https://arxiv.org/abs/2104.10858)
-* MLP-Mixer: An all-MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2105.01601)
 * Fourier Image Transformer: [[paper]](https://arxiv.org/abs/2104.02555)
 * Emerging Properties in Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.14294)
 * ConTNet: Why not use convolution and transformer at the same time?: [[paper]](https://arxiv.org/abs/2104.13497)
@@ -144,6 +143,7 @@
 * ResMLP: Feedforward networks for image classification with data-efficient training: [[paper]](https://arxiv.org/abs/2105.03404)
 * Pay Attention to MLPs: [[paper]](https://arxiv.org/abs/2105.08050)
 * Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet: [[paper]](https://arxiv.org/abs/2105.02723)
+* MLP-Mixer: An all-MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2105.01601)
 
 
 ## Vision Transformers retrieval 
