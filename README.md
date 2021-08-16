@@ -23,7 +23,7 @@
 * How Much Can CLIP Benefit Vision-and-Language Tasks? : [[paper]](https://arxiv.org/abs/2107.12087)
 
 
-## Self Supervised Learninig
+## Self Supervised Learninig & unsupervised learning
 * Unsupervised Representation Learning by Predicting Image Rotations  : [[paper]](https://arxiv.org/abs/1803.07728)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/393)
 * Unsupervised Visual Representation Learning by Context Prediction : [[paper]](https://arxiv.org/abs/1505.05192)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/394)
 * Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles : [[paper]](https://arxiv.org/abs/1603.09246)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/395)
