@@ -68,7 +68,7 @@
 * Emerging Properties in Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.14294)
 * ConTNet: Why not use convolution and transformer at the same time?: [[paper]](https://arxiv.org/abs/2104.13497)
 * Twins: Revisiting Spatial Attention Design in Vision Transformers: [[paper]](https://arxiv.org/abs/2104.13840)
-* An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057)
+* An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057) [[link_review]](https://deep-learning-study.tistory.com/746)  [[link_review]](https://rauleun.github.io/MoCo_v3)
 * Conformer: Local Features Coupling Global Representations for Visual Recognition: [[paper]](https://arxiv.org/abs/2105.03889)
 * Self-Supervised Learning with Swin Transformers: [[paper]](https://arxiv.org/abs/2105.04553)
 * Are Pre-trained Convolutions Better than Pre-trained Transformers?: [[paper]](https://arxiv.org/abs/2105.03322)
