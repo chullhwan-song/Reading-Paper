@@ -115,6 +115,7 @@
 * Rethinking and Improving Relative Position Encoding for Vision Transformer : [[paper]](https://arxiv.org/abs/2107.14222) 
 * Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
 * BEiT: BERT Pre-Training of Image Transformers : [[paper]](https://arxiv.org/abs/2106.08254) 
+* Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions : [[paper]](https://arxiv.org/abs/2102.12122) 
 * PVTv2: Improved Baselines with Pyramid Vision Transformer : [[paper]](https://arxiv.org/abs/2106.13797) 
 * Thinking Like Transformers : [[paper]](https://arxiv.org/abs/2106.06981) 
 * CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652) 
