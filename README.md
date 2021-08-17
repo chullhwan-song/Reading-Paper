@@ -32,8 +32,8 @@
 * Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
 * Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
 * SimCLR : A Simple Framework for Contrastive Learning of Visual Representations : [[paper]](https://arxiv.org/abs/2002.05709)
-* MoCo : Momentum Contrast for Unsupervised Visual Representation Learning : [[paper]](https://arxiv.org/abs/1911.05722)
-* MoCo V2 : Improved Baselines with Momentum Contrastive Learning : [[paper]](https://arxiv.org/abs/2003.04297)
+* MoCo : Momentum Contrast for Unsupervised Visual Representation Learning : [[paper]](https://arxiv.org/abs/1911.05722) 
+* MoCo V2 : Improved Baselines with Momentum Contrastive Learning : [[paper]](https://arxiv.org/abs/2003.04297) [[link_review]](https://deep-learning-study.tistory.com/743) [[link_review]](https://hongl.tistory.com/127) 
 * MoCo V3 : An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057) [[link_review]](https://deep-learning-study.tistory.com/746)  [[link_review]](https://rauleun.github.io/MoCo_v3)
 
 ## Vision Transformers  classification
