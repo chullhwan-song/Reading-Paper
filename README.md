@@ -140,7 +140,6 @@
 * Efficient Vision Transformers via Fine-Grained Manifold Distillation : [[paper]](https://arxiv.org/abs/2107.01378) 
 * What Makes for Hierarchical Vision Transformer? : [[paper]](https://arxiv.org/abs/2107.02174) 
 * AutoFormer: Searching Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.00651) 
-* Are Convolutional Neural Networks or Transformers more like human vision? : [[paper]](https://arxiv.org/abs/2105.07197) 
 * Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) 
 
 
