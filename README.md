@@ -83,6 +83,7 @@
 * Are Convolutional Neural Networks or Transformers more like human vision?: [[paper]](https://arxiv.org/abs/2105.07197)
 * Rethinking Skip Connection with Layer Normalization in Transformers and ResNets: [[paper]](https://arxiv.org/abs/2105.07205)
 * Rethinking the Design Principles of Robust Vision Transformer (Towards Robust Vision Transformer): [[paper]](https://arxiv.org/abs/2105.07926)
+* Longformer: The Long-Document Transformer : [[paper]](https://arxiv.org/abs/2004.05150)
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding: [[paper]](https://arxiv.org/abs/2103.15358)
 * On the Robustness of Vision Transformers to Adversarial Examples: [[paper]](https://arxiv.org/abs/2104.02610)
 * Refiner: Refining Self-attention for Vision Transformers: [[paper]](https://arxiv.org/abs/2106.03714)
