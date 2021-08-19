@@ -102,7 +102,7 @@
 * An Attention Free Transformer: [[paper]](https://arxiv.org/abs/2105.14103)
 * Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length: [[paper]](https://arxiv.org/abs/2105.15075)
 * Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks: [[paper]](https://arxiv.org/abs/2105.02358) [[link_review]](https://sjpyo.tistory.com/96)
-* Pre-Trained Image Processing Transformer: [[paper]](https://arxiv.org/abs/2012.00364)
+* Pre-Trained Image Processing Transformer: [[paper]](https://arxiv.org/abs/2012.00364) [[link_review]](https://junha1125.github.io/blog/artificial-intelligence/2021-03-26-PreTrained-Transformer/)
 * ResT: An Efficient Transformer for Visual Recognition: [[paper]](https://arxiv.org/abs/2105.13677)
 * Towards Robust Vision Transformer: [[paper]](https://arxiv.org/abs/2105.07926)
 * Aggregating Nested Transformers: [[paper]](https://arxiv.org/abs/2105.12723)
