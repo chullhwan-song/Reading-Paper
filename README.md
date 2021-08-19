@@ -107,7 +107,7 @@
 * Towards Robust Vision Transformer: [[paper]](https://arxiv.org/abs/2105.07926)
 * Aggregating Nested Transformers: [[paper]](https://arxiv.org/abs/2105.12723)
 * GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification: [[paper]](https://arxiv.org/abs/2104.14528)
-* Intriguing Properties of Vision Transformers: [[paper]](https://arxiv.org/abs/2105.10497)
+* Intriguing Properties of Vision Transformers: [[paper]](https://arxiv.org/abs/2105.10497) [[link_review]](https://hihunjin.tistory.com/25) [[link_review]](https://www.facebook.com/groups/TensorFlowKR/permalink/1492182104456176/)
 * Combining Transformer Generators with Convolutional Discriminators: [[paper]](https://arxiv.org/abs/2105.10189)
 * Relative Positional Encoding for Transformers with Linear Complexity: [[paper]](https://arxiv.org/abs/2105.08399)
 * Vision Transformers are Robust Learners: [[paper]](https://arxiv.org/abs/2105.07581)
