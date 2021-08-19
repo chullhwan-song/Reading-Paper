@@ -108,7 +108,6 @@
 * Aggregating Nested Transformers: [[paper]](https://arxiv.org/abs/2105.12723)
 * GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification: [[paper]](https://arxiv.org/abs/2104.14528)
 * Intriguing Properties of Vision Transformers: [[paper]](https://arxiv.org/abs/2105.10497) [[link_review]](https://hihunjin.tistory.com/25) [[link_review]](https://www.facebook.com/groups/TensorFlowKR/permalink/1492182104456176/)
-* Combining Transformer Generators with Convolutional Discriminators: [[paper]](https://arxiv.org/abs/2105.10189)
 * Relative Positional Encoding for Transformers with Linear Complexity: [[paper]](https://arxiv.org/abs/2105.08399)
 * Vision Transformers are Robust Learners: [[paper]](https://arxiv.org/abs/2105.07581)
 * Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer: [[paper]](https://arxiv.org/abs/2106.03650)
@@ -139,6 +138,13 @@
 * What Makes for Hierarchical Vision Transformer? : [[paper]](https://arxiv.org/abs/2107.02174) 
 * AutoFormer: Searching Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.00651) 
 * Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) 
+* ConvNets vs. Transformers: Whose Visual Representations are More Transferable? : [[paper]](https://arxiv.org/abs/2108.05305) 
+* Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight : [[paper]](https://arxiv.org/abs/2106.04263)
+* Vision Transformer Pruning : [[paper]](https://arxiv.org/abs/2104.08500)
+* Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations : [[paper]](https://arxiv.org/abs/2108.05887)
+* Mobile-Former: Bridging MobileNet and Transformer : [[paper]](https://arxiv.org/abs/2108.05895)
+* Image Fusion Transformer : [[paper]](https://arxiv.org/abs/2107.09011)
+* PSViT: Better Vision Transformer via Token Pooling and Attention Sharing : [[paper]](https://arxiv.org/abs/2108.03428)
 
 
 ## Vision Transformers vs MLP
@@ -164,13 +170,17 @@
 * Medical Image Segmentation Using Squeeze-and-Expansion Transformers: [[paper]](https://arxiv.org/abs/2105.09511)
 * SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers: [[paper]](https://arxiv.org/abs/2105.15203)
 * Visual Transformers: Token-based Image Representation and Processing for Computer Vision : [[paper]](https://arxiv.org/abs/2006.03677)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/388)
-* DETR:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) [[link_review]](https://amaarora.github.io/2021/07/26/annotateddetr.html) [[link_review]](https://keyog.tistory.com/32) [[link_review]](https://powerofsummary.tistory.com/205) [[link_review]](https://modulabs.oopy.io/38070399-f3af-409f-92b0-b640ab654f53)
+* DETR:End-to-End Object Detection with Transformers : [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) [[link_review]](https://amaarora.github.io/2021/07/26/annotateddetr.html) [[link_review]](https://keyog.tistory.com/32) [[link_review]](https://powerofsummary.tistory.com/205) [[link_review]](https://modulabs.oopy.io/38070399-f3af-409f-92b0-b640ab654f53) [[link_review]](https://amaarora.github.io/2021/07/26/annotateddetr.html)
 * Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
 * A Unified Efficient Pyramid Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2107.14209)
 * Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
 * MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers : [[paper]](https://arxiv.org/abs/2012.00759) 
 * Vision Transformers with Patch Diversification : [[paper]](https://arxiv.org/abs/2104.12753) 
 * Improve Vision Transformers Training by Suppressing Over-smoothing : [[paper]](https://arxiv.org/abs/2104.12753v1)
+* SOTR: Segmenting Objects with Transformers : [[paper]](https://arxiv.org/abs/2108.06747)
+* Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer : [[paper]](https://arxiv.org/abs/2108.03032)
+* Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers : [[paper]](https://arxiv.org/abs/2108.06932)
+* Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
 
 
 ## Vision Transformers video
@@ -195,8 +205,7 @@
 * A Hierarchical Transformation-Discriminating Generative Model for Few Shot Anomaly Detection : [[paper]](https://arxiv.org/abs/2104.14535)
 * ViTGAN: Training GANs with Vision Transformers : [[paper]](https://arxiv.org/abs/2107.04589)
 * Styleformer: Transformer based Generative Adversarial Networks with Style Vector : [[paper]](https://arxiv.org/abs/2106.07023)
-
-
+* Combining Transformer Generators with Convolutional Discriminators: [[paper]](https://arxiv.org/abs/2105.10189)
 
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) (Instance level Image Retrieval) & Deep Feature 
@@ -261,7 +270,9 @@
 ## Fashion Recommendation
 * FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
 * Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109)
-* Learning Type-Aware Embeddings for Fashion Compatibility : [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/360)
+* Learning Type-Aware Embeddings for Fashion Compatibility : [[paper]](https://arxiv.org/abs/1902.03646) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/360)
+* Self-supervised Visual Attribute Learning for Fashion Compatibility : [[paper]](https://arxiv.org/abs/2008.00348)
+
 
 ## Fashion Generative Adversarial Nets
 * Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
@@ -413,6 +424,7 @@
 * EfficientDet ： Scalable and Efficient Object Detection :  [[paper]](https://arxiv.org/abs/1911.09070) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/253) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/253)
 * FCOS: Fully Convolutional One-Stage Object Detection : [[paper]](https://arxiv.org/abs/1904.01355) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/385)
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection : [[paper]](https://arxiv.org/abs/1912.02424) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/304)
+* Oriented R-CNN for Object Detection : [[paper]](https://arxiv.org/abs/2108.05699)
 
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
