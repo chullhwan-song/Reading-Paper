@@ -100,7 +100,6 @@
 * Less is More: Pay Less Attention in Vision Transformers: [[paper]](https://arxiv.org/abs/2105.14217)
 * FoveaTer: Foveated Transformer for Image Classification: [[paper]](https://arxiv.org/abs/2105.14173)
 * An Attention Free Transformer: [[paper]](https://arxiv.org/abs/2105.14103)
-* Optimizing Deeper Transformers on Small Datasets: [[paper]](https://arxiv.org/abs/2012.15355)
 * Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length: [[paper]](https://arxiv.org/abs/2105.15075)
 * Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks: [[paper]](https://arxiv.org/abs/2105.02358)
 * Pre-Trained Image Processing Transformer: [[paper]](https://arxiv.org/abs/2012.00364)
