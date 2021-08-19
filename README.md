@@ -35,7 +35,7 @@
 * SimCLR V2:Big Self-Supervised Models are Strong Semi-Supervised Learners : [[paper]](https://arxiv.org/abs/2006.10029) 
 * MoCo : Momentum Contrast for Unsupervised Visual Representation Learning : [[paper]](https://arxiv.org/abs/1911.05722) 
 * MoCo V2 : Improved Baselines with Momentum Contrastive Learning : [[paper]](https://arxiv.org/abs/2003.04297) [[link_review]](https://deep-learning-study.tistory.com/743) [[link_review]](https://hongl.tistory.com/127) 
-* MoCo V3 : An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057) [[link_review]](https://deep-learning-study.tistory.com/746)  [[link_review]](https://rauleun.github.io/MoCo_v3)
+* MoCo V3 : An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057) [[link_review]](https://deep-learning-study.tistory.com/746) [[link_review]](https://rauleun.github.io/MoCo_v3)
 * BYOL : Bootstrap your own latent: A new approach to self-supervised Learning: [[paper]](https://arxiv.org/abs/2006.07733)
 
 
@@ -101,7 +101,7 @@
 * FoveaTer: Foveated Transformer for Image Classification: [[paper]](https://arxiv.org/abs/2105.14173)
 * An Attention Free Transformer: [[paper]](https://arxiv.org/abs/2105.14103)
 * Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length: [[paper]](https://arxiv.org/abs/2105.15075)
-* Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks: [[paper]](https://arxiv.org/abs/2105.02358)
+* Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks: [[paper]](https://arxiv.org/abs/2105.02358) [[link_review]](https://sjpyo.tistory.com/96)
 * Pre-Trained Image Processing Transformer: [[paper]](https://arxiv.org/abs/2012.00364)
 * ResT: An Efficient Transformer for Visual Recognition: [[paper]](https://arxiv.org/abs/2105.13677)
 * Towards Robust Vision Transformer: [[paper]](https://arxiv.org/abs/2105.07926)
