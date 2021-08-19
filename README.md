@@ -132,7 +132,6 @@
 * Visual Transformer Pruning : [[paper]](https://arxiv.org/abs/2104.08500) 
 * Rethinking Positional Encoding : [[paper]](https://arxiv.org/abs/2107.02561) 
 * Local-to-Global Self-Attention in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.04735) 
-* ResT: An Efficient Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.13677) 
 * Feature Fusion Vision Transformer for Fine-Grained Visual Categorization : [[paper]](https://arxiv.org/abs/2107.02341) 
 * Vision Xformers: Efficient Attention for Image Classification : [[paper]](https://arxiv.org/abs/2107.02239) 
 * EsViT : Efficient Self-supervised Vision Transformers for Representation Learning : [[paper]](https://arxiv.org/abs/2106.09785) 
