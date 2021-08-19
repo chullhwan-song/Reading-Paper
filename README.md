@@ -210,7 +210,8 @@
 
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) (Instance level Image Retrieval) & Deep Feature 
-* Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
+* (My paper) All the attention you need: Global-local, spatial-channel attention for image retrieval : [[paper]](https://arxiv.org/abs/2107.08000)
+* Large-Scale Image Retrieval with Attentive Deep Local Features : [[paper]](https://arxiv.org/abs/1612.06321) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/4)
 * NetVLAD: CNN architecture for weakly supervised place recognition : [[paper]](https://arxiv.org/abs/1511.07247)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/3)
 * Learning visual similarity for product design with convolutional neural networks : [[paper]](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/7) 
 * Bags of Local Convolutional Features for Scalable Instance Search  : [[paper]](https://arxiv.org/abs/1604.04653)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/9) 
@@ -255,7 +256,7 @@
 * eProduct: A Million-Scale Visual Search Benchmark to Address Product Recognition Challenges : [[paper]](https://arxiv.org/abs/2107.05856)
 * Towards Accurate Localization by Instance Search : [[paper]](https://arxiv.org/abs/2107.05005)
 * The 2021 Image Similarity Dataset and Challenge : [[paper]](https://arxiv.org/abs/2106.09672)
-
+* DOLG:Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features : [[paper]](https://arxiv.org/abs/2108.02927)
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
