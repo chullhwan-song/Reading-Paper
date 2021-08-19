@@ -20,6 +20,7 @@
 * Text is Text, No Matter What: Unifying Text Recognition using Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.12087)
 
 ## CLIP & joined multi-modal
+* CLIP : Learning Transferable Visual Models From Natural Language Supervision : [[paper]](https://arxiv.org/abs/2103.00020) [[link_review]](https://medium.com/lunit/clip-leveraging-the-power-of-a-large-image-text-paired-dataset-for-zero-shot-learning-2e8045962403) [[link_review]](https://icml.cc/media/icml-2021/Slides/9193.pdf)  [[link_review]](https://inst.eecs.berkeley.edu/~cs188/sp21/assets/slides/adv_iii_clip.pdf) [[link_review]](https://ai-information.blogspot.com/2021/07/nl-118-cv.html) [[link_review]](https://simonezz.tistory.com/m/88) [[link_review]](https://inforience.net/2021/02/09/clip_visual-model_pre_training/) 
 * How Much Can CLIP Benefit Vision-and-Language Tasks? : [[paper]](https://arxiv.org/abs/2107.12087)
 
 
