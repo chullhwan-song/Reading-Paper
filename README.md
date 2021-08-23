@@ -7,7 +7,7 @@
 
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
-* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) [[link_review]](https://drive.google.com/file/d/1mRRYBSPVW2nM6erCFsAAL7AoGBJefl9i/view?usp=sharing)
+* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) [[link_review]](https://drive.google.com/file/d/1mRRYBSPVW2nM6erCFsAAL7AoGBJefl9i/view?usp=sharing) 
 * Effects of Image Size on Deep Learning : [[paper]](https://arxiv.org/abs/2101.11508)
 * Inductive Bias : [[link_review]](https://velog.io/@euisuk-chung/Inductive-Bias%EB%9E%80) 
 
@@ -20,7 +20,7 @@
 * Text is Text, No Matter What: Unifying Text Recognition using Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.12087)
 
 ## CLIP & joined multi-modal
-* CLIP : Learning Transferable Visual Models From Natural Language Supervision : [[paper]](https://arxiv.org/abs/2103.00020) [[link_review]](https://medium.com/lunit/clip-leveraging-the-power-of-a-large-image-text-paired-dataset-for-zero-shot-learning-2e8045962403) [[link_review]](https://icml.cc/media/icml-2021/Slides/9193.pdf)  [[link_review]](https://inst.eecs.berkeley.edu/~cs188/sp21/assets/slides/adv_iii_clip.pdf) [[link_review]](https://ai-information.blogspot.com/2021/07/nl-118-cv.html) [[link_review]](https://simonezz.tistory.com/m/88) [[link_review]](https://inforience.net/2021/02/09/clip_visual-model_pre_training/) [[link_review]](https://medium.com/@mk.minchul)  [[link_review]](https://jiho-ml.com/weekly-nlp-42/) [[link_review]](https://vitalab.github.io/article/2021/04/02/Clip.html) [[link_review]](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2)
+* CLIP : Learning Transferable Visual Models From Natural Language Supervision : [[paper]](https://arxiv.org/abs/2103.00020) [[link_review]](https://medium.com/lunit/clip-leveraging-the-power-of-a-large-image-text-paired-dataset-for-zero-shot-learning-2e8045962403) [[link_review]](https://icml.cc/media/icml-2021/Slides/9193.pdf)  [[link_review]](https://inst.eecs.berkeley.edu/~cs188/sp21/assets/slides/adv_iii_clip.pdf) [[link_review]](https://ai-information.blogspot.com/2021/07/nl-118-cv.html) [[link_review]](https://simonezz.tistory.com/m/88) [[link_review]](https://inforience.net/2021/02/09/clip_visual-model_pre_training/) [[link_review]](https://medium.com/@mk.minchul)  [[link_review]](https://jiho-ml.com/weekly-nlp-42/) [[link_review]](https://vitalab.github.io/article/2021/04/02/Clip.html) [[link_review]](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2) [[link_review]](https://dealicious-inc.github.io/2021/03/22/learning-transferable-visual-models.html)
 * How Much Can CLIP Benefit Vision-and-Language Tasks? : [[paper]](https://arxiv.org/abs/2107.12087)
 
 
