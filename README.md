@@ -7,7 +7,7 @@
 
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
-* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) 
+* Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) [[link_review]](https://drive.google.com/file/d/1mRRYBSPVW2nM6erCFsAAL7AoGBJefl9i/view?usp=sharing)
 * Effects of Image Size on Deep Learning : [[paper]](https://arxiv.org/abs/2101.11508)
 * Inductive Bias : [[link_review]](https://velog.io/@euisuk-chung/Inductive-Bias%EB%9E%80) 
 
