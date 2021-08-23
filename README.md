@@ -89,7 +89,6 @@
 * On the Robustness of Vision Transformers to Adversarial Examples: [[paper]](https://arxiv.org/abs/2104.02610)
 * Refiner: Refining Self-attention for Vision Transformers: [[paper]](https://arxiv.org/abs/2106.03714)
 * Patch Slimming for Efficient Vision Transformers: [[paper]](https://arxiv.org/abs/2106.02852)
-* CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings: [[paper]](https://arxiv.org/abs/2106.03143)
 * RegionViT: Regional-to-Local Attention for Vision Transformers: [[paper]](https://arxiv.org/abs/2106.02689)
 * X-volution: On the unification of convolution and self-attention: [[paper]](https://arxiv.org/abs/2106.02253)
 * The Image Local Autoregressive Transformer: [[paper]](https://arxiv.org/abs/2106.02514)
