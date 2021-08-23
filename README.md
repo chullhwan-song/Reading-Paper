@@ -257,6 +257,8 @@
 * Towards Accurate Localization by Instance Search : [[paper]](https://arxiv.org/abs/2107.05005)
 * The 2021 Image Similarity Dataset and Challenge : [[paper]](https://arxiv.org/abs/2106.09672)
 * DOLG:Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features : [[paper]](https://arxiv.org/abs/2108.02927)
+* Towards A Fairer Landmark Recognition Dataset : [[paper]](https://arxiv.org/abs/2108.08874)
+
 
 ## Metric Learning
 * Deep metric learning using Triplet network : [[paper]](https://arxiv.org/abs/1412.6622)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/16)
