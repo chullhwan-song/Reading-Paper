@@ -146,6 +146,9 @@
 * Mobile-Former: Bridging MobileNet and Transformer : [[paper]](https://arxiv.org/abs/2108.05895)
 * Image Fusion Transformer : [[paper]](https://arxiv.org/abs/2107.09011)
 * PSViT: Better Vision Transformer via Token Pooling and Attention Sharing : [[paper]](https://arxiv.org/abs/2108.03428)
+* Smart Bird: Learnable Sparse Attention for Efficient and Effective Transformer : [[paper]](https://arxiv.org/abs/2108.09193)
+* Fastformer: Additive Attention is All You Need : [[paper]](https://arxiv.org/abs/2108.09084)
+* Do Vision Transformers See Like Convolutional Neural Networks? : [[paper]](https://arxiv.org/abs/2108.08810)
 
 
 ## Vision Transformers vs MLP
@@ -182,6 +185,8 @@
 * Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer : [[paper]](https://arxiv.org/abs/2108.03032)
 * Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers : [[paper]](https://arxiv.org/abs/2108.06932)
 * Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
+* Conditional DETR for Fast Training Convergence : [[paper]](https://arxiv.org/abs/2108.06152)
+
 
 
 ## Vision Transformers video
