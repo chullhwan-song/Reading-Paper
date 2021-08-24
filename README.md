@@ -118,7 +118,7 @@
 * Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions : [[paper]](https://arxiv.org/abs/2102.12122) 
 * PVTv2: Improved Baselines with Pyramid Vision Transformer : [[paper]](https://arxiv.org/abs/2106.13797) 
 * Thinking Like Transformers : [[paper]](https://arxiv.org/abs/2106.06981) 
-* CMT: Convolutional Neural Networks Meet Vision Transformers : [[paper]](https://arxiv.org/abs/2107.06263) 
+* CMT: Convolutional Neural Networks Meet Vision Transformers : [[paper]](https://arxiv.org/abs/2107.06263) [[link_review]](https://deep-learning-study.tistory.com/829?category=963091)  [[link_review]](https://www.youtube.com/watch?v=HWf8CmTAIR4) 
 * Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition : [[paper]](https://arxiv.org/abs/2107.06538) 
 * ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias : [[paper]](https://arxiv.org/abs/2106.03348) 
 * Visual Transformer Pruning : [[paper]](https://arxiv.org/abs/2104.08500) 
