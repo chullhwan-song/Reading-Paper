@@ -133,7 +133,6 @@
 * Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) [[link_review]](http://iislab.skku.edu/iish/seminar/52673)  
 * ConvNets vs. Transformers: Whose Visual Representations are More Transferable? : [[paper]](https://arxiv.org/abs/2108.05305) 
 * Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight : [[paper]](https://arxiv.org/abs/2106.04263)
-* Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations : [[paper]](https://arxiv.org/abs/2108.05887)
 * Mobile-Former: Bridging MobileNet and Transformer : [[paper]](https://arxiv.org/abs/2108.05895)
 * Image Fusion Transformer : [[paper]](https://arxiv.org/abs/2107.09011)
 * PSViT: Better Vision Transformer via Token Pooling and Attention Sharing : [[paper]](https://arxiv.org/abs/2108.03428)
@@ -170,6 +169,7 @@
 * Instance-level Image Retrieval using Reranking Transformers: [[paper]](https://arxiv.org/abs/2103.12236)
 * Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval: [[paper]](https://arxiv.org/abs/2103.11920)
 * TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval : [[paper]](https://arxiv.org/abs/2105.01823)
+* Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations : [[paper]](https://arxiv.org/abs/2108.05887)
 
 ## Vision Transformers segmentation and detection
 * CoSformer: Detecting Co-Salient Object with Transformers: [[paper]](https://arxiv.org/abs/2104.14729)
