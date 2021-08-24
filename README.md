@@ -108,13 +108,11 @@
 * Aggregating Nested Transformers: [[paper]](https://arxiv.org/abs/2105.12723)
 * GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification: [[paper]](https://arxiv.org/abs/2104.14528)
 * Intriguing Properties of Vision Transformers: [[paper]](https://arxiv.org/abs/2105.10497) [[link_review]](https://hihunjin.tistory.com/25) [[link_review]](https://www.facebook.com/groups/TensorFlowKR/permalink/1492182104456176/) [[link_review]](https://drive.google.com/file/d/1v9Vr24bec3xnrdWxxz_MfgUSshLl4IBP/view?usp=sharing)
-* Relative Positional Encoding for Transformers with Linear Complexity: [[paper]](https://arxiv.org/abs/2105.08399) 
 * Vision Transformers are Robust Learners: [[paper]](https://arxiv.org/abs/2105.07581)
 * Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer: [[paper]](https://arxiv.org/abs/2106.03650)
 * A Survey of Transformers: [[paper]](https://arxiv.org/abs/2106.04554)
 * Armour: Generalizable Compact Self-Attention for Vision Transformers : [[paper]](https://arxiv.org/abs/2108.01778)
 * Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer : [[paper]](https://arxiv.org/abs/2108.01390)
-* Rethinking and Improving Relative Position Encoding for Vision Transformer : [[paper]](https://arxiv.org/abs/2107.14222) 
 * Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
 * BEiT: BERT Pre-Training of Image Transformers : [[paper]](https://arxiv.org/abs/2106.08254) 
 * Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions : [[paper]](https://arxiv.org/abs/2102.12122) 
@@ -125,7 +123,6 @@
 * Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition : [[paper]](https://arxiv.org/abs/2107.06538) 
 * ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias : [[paper]](https://arxiv.org/abs/2106.03348) 
 * Visual Transformer Pruning : [[paper]](https://arxiv.org/abs/2104.08500) 
-* Rethinking Positional Encoding : [[paper]](https://arxiv.org/abs/2107.02561) 
 * Local-to-Global Self-Attention in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.04735) 
 * Feature Fusion Vision Transformer for Fine-Grained Visual Categorization : [[paper]](https://arxiv.org/abs/2107.02341) 
 * Vision Xformers: Efficient Attention for Image Classification : [[paper]](https://arxiv.org/abs/2107.02239) 
@@ -151,6 +148,9 @@
 * Vision Transformer with Progressive Sampling : [[paper]](https://arxiv.org/abs/2108.01684)
 * DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
 * CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
+* Rethinking and Improving Relative Position Encoding for Vision Transformer : [[paper]](https://arxiv.org/abs/2107.14222) 
+* Rethinking Positional Encoding : [[paper]](https://arxiv.org/abs/2107.02561) 
+* Relative Positional Encoding for Transformers with Linear Complexity: [[paper]](https://arxiv.org/abs/2105.08399) 
 
 
 ## Vision Transformers vs MLP
