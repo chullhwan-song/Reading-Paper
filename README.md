@@ -77,7 +77,7 @@
 * ConTNet: Why not use convolution and transformer at the same time?: [[paper]](https://arxiv.org/abs/2104.13497)
 * Twins: Revisiting Spatial Attention Design in Vision Transformers: [[paper]](https://arxiv.org/abs/2104.13840)
 * MoCo V3 :An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057) [[link_review]](https://deep-learning-study.tistory.com/746)  [[link_review]](https://rauleun.github.io/MoCo_v3)
-* Conformer: Local Features Coupling Global Representations for Visual Recognition: [[paper]](https://arxiv.org/abs/2105.03889)
+* Conformer: Local Features Coupling Global Representations for Visual Recognition: [[paper]](https://arxiv.org/abs/2105.03889) [[link_review]](https://github.com/kakaobrain/nlp-paper-reading/blob/master/notes/conformer.md)
 * Self-Supervised Learning with Swin Transformers: [[paper]](https://arxiv.org/abs/2105.04553)
 * Are Pre-trained Convolutions Better than Pre-trained Transformers?: [[paper]](https://arxiv.org/abs/2105.03322)
 * LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference: [[paper]](https://arxiv.org/abs/2104.01136)
@@ -144,7 +144,7 @@
 * Do Vision Transformers See Like Convolutional Neural Networks? : [[paper]](https://arxiv.org/abs/2108.08810)
 
 ## Vision Transformers positional embedding
-* Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155)
+* Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155) [[link_review]](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-19-07-09-7805d625562b47a2b308b5941ee717ae)
 * Vision Transformer with Progressive Sampling : [[paper]](https://arxiv.org/abs/2108.01684)
 * DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
 * CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
