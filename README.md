@@ -130,7 +130,7 @@
 * Efficient Vision Transformers via Fine-Grained Manifold Distillation : [[paper]](https://arxiv.org/abs/2107.01378) 
 * What Makes for Hierarchical Vision Transformer? : [[paper]](https://arxiv.org/abs/2107.02174) 
 * AutoFormer: Searching Transformers for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.00651) 
-* Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) 
+* Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) [[link_review]](http://iislab.skku.edu/iish/seminar/52673)  
 * ConvNets vs. Transformers: Whose Visual Representations are More Transferable? : [[paper]](https://arxiv.org/abs/2108.05305) 
 * Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight : [[paper]](https://arxiv.org/abs/2106.04263)
 * Vision Transformer Pruning : [[paper]](https://arxiv.org/abs/2104.08500)
