@@ -141,6 +141,8 @@
 * Smart Bird: Learnable Sparse Attention for Efficient and Effective Transformer : [[paper]](https://arxiv.org/abs/2108.09193)
 * Fastformer: Additive Attention is All You Need : [[paper]](https://arxiv.org/abs/2108.09084)
 * Do Vision Transformers See Like Convolutional Neural Networks? : [[paper]](https://arxiv.org/abs/2108.08810)
+* Linformer: Self-Attention with Linear Complexity : [[paper]](https://arxiv.org/abs/2006.04768)
+
 
 ## Vision Transformers positional embedding
 * Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155) [[link_review]](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-19-07-09-7805d625562b47a2b308b5941ee717ae)
