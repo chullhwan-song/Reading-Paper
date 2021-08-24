@@ -133,7 +133,6 @@
 * Focal Self-attention for Local-Global Interactions in Vision Transformers : [[paper]](https://arxiv.org/abs/2107.00641) [[link_review]](http://iislab.skku.edu/iish/seminar/52673)  
 * ConvNets vs. Transformers: Whose Visual Representations are More Transferable? : [[paper]](https://arxiv.org/abs/2108.05305) 
 * Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight : [[paper]](https://arxiv.org/abs/2106.04263)
-* Vision Transformer Pruning : [[paper]](https://arxiv.org/abs/2104.08500)
 * Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations : [[paper]](https://arxiv.org/abs/2108.05887)
 * Mobile-Former: Bridging MobileNet and Transformer : [[paper]](https://arxiv.org/abs/2108.05895)
 * Image Fusion Transformer : [[paper]](https://arxiv.org/abs/2107.09011)
