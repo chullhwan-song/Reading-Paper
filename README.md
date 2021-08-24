@@ -150,7 +150,8 @@
 * CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
 * Rethinking and Improving Relative Position Encoding for Vision Transformer : [[paper]](https://arxiv.org/abs/2107.14222) 
 * Rethinking Positional Encoding : [[paper]](https://arxiv.org/abs/2107.02561) 
-* Relative Positional Encoding for Transformers with Linear Complexity: [[paper]](https://arxiv.org/abs/2105.08399) 
+* Relative Positional Encoding for Transformers with Linear Complexity : [[paper]](https://arxiv.org/abs/2105.08399) 
+* Conditional Positional Encodings for Vision Transformers : [[paper]](https://arxiv.org/abs/2102.10882)
 
 
 ## Vision Transformers vs MLP
