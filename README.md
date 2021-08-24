@@ -113,10 +113,7 @@
 * Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer: [[paper]](https://arxiv.org/abs/2106.03650)
 * A Survey of Transformers: [[paper]](https://arxiv.org/abs/2106.04554)
 * Armour: Generalizable Compact Self-Attention for Vision Transformers : [[paper]](https://arxiv.org/abs/2108.01778)
-* Vision Transformer with Progressive Sampling : [[paper]](https://arxiv.org/abs/2108.01684)
 * Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer : [[paper]](https://arxiv.org/abs/2108.01390)
-* DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
-* CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
 * Rethinking and Improving Relative Position Encoding for Vision Transformer : [[paper]](https://arxiv.org/abs/2107.14222) 
 * Dual-stream Network for Visual Recognition : [[paper]](https://arxiv.org/abs/2105.14734) 
 * BEiT: BERT Pre-Training of Image Transformers : [[paper]](https://arxiv.org/abs/2106.08254) 
@@ -148,6 +145,12 @@
 * Smart Bird: Learnable Sparse Attention for Efficient and Effective Transformer : [[paper]](https://arxiv.org/abs/2108.09193)
 * Fastformer: Additive Attention is All You Need : [[paper]](https://arxiv.org/abs/2108.09084)
 * Do Vision Transformers See Like Convolutional Neural Networks? : [[paper]](https://arxiv.org/abs/2108.08810)
+
+## Vision Transformers positional embedding
+* Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155)
+* Vision Transformer with Progressive Sampling : [[paper]](https://arxiv.org/abs/2108.01684)
+* DPT: Deformable Patch-based Transformer for Visual Recognition : [[paper]](https://arxiv.org/abs/2107.14467)
+* CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings : [[paper]](https://arxiv.org/abs/2106.03143) 
 
 
 ## Vision Transformers vs MLP
