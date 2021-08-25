@@ -24,7 +24,7 @@
 * How Much Can CLIP Benefit Vision-and-Language Tasks? : [[paper]](https://arxiv.org/abs/2107.12087)
 
 
-## Self Supervised Learninig & unsupervised learning
+## Self Supervised Learninig & unsupervised learning & semi/Weakly supervised learning
 * Unsupervised Representation Learning by Predicting Image Rotations  : [[paper]](https://arxiv.org/abs/1803.07728)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/393)
 * Unsupervised Visual Representation Learning by Context Prediction : [[paper]](https://arxiv.org/abs/1505.05192)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/394)
 * Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles : [[paper]](https://arxiv.org/abs/1603.09246)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/395)
@@ -37,8 +37,8 @@
 * MoCo : Momentum Contrast for Unsupervised Visual Representation Learning : [[paper]](https://arxiv.org/abs/1911.05722) 
 * MoCo V2 : Improved Baselines with Momentum Contrastive Learning : [[paper]](https://arxiv.org/abs/2003.04297) [[link_review]](https://deep-learning-study.tistory.com/743) [[link_review]](https://hongl.tistory.com/127) 
 * MoCo V3 : An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057) [[link_review]](https://deep-learning-study.tistory.com/746) [[link_review]](https://rauleun.github.io/MoCo_v3)
-* BYOL : Bootstrap your own latent: A new approach to self-supervised Learning: [[paper]](https://arxiv.org/abs/2006.07733)
-
+* BYOL : Bootstrap your own latent: A new approach to self-supervised Learning: [[paper]](https://arxiv.org/abs/1805.00932)
+* Exploring the limits of weakly supervised pretraining : [[paper]](https://arxiv.org/abs/1805.00932)
 
 ## Vision Transformers  classification
 
