@@ -362,7 +362,7 @@
 
 ## Transfer Learning
 * Taskonomy: Disentangling Task Transfer Learning : [[paper]](https://arxiv.org/abs/1804.08328)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/45)
-* What makes ImageNet good for transfer learning?g : [[paper]](https://arxiv.org/abs/1608.08614)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/104)
+* What makes ImageNet good for transfer learning? : [[paper]](https://arxiv.org/abs/1608.08614)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/104)
 
 ## Generative Adversarial Nets
 * Generative Adversarial Nets : [[paper]](https://arxiv.org/abs/1406.2661)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/8)
