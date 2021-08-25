@@ -139,8 +139,6 @@
 * Mobile-Former: Bridging MobileNet and Transformer : [[paper]](https://arxiv.org/abs/2108.05895)
 * Image Fusion Transformer : [[paper]](https://arxiv.org/abs/2107.09011)
 * PSViT: Better Vision Transformer via Token Pooling and Attention Sharing : [[paper]](https://arxiv.org/abs/2108.03428)
-* Smart Bird: Learnable Sparse Attention for Efficient and Effective Transformer : [[paper]](https://arxiv.org/abs/2108.09193)
-* Fastformer: Additive Attention is All You Need : [[paper]](https://arxiv.org/abs/2108.09084)
 * Do Vision Transformers See Like Convolutional Neural Networks? : [[paper]](https://arxiv.org/abs/2108.08810)
 * Linformer: Self-Attention with Linear Complexity : [[paper]](https://arxiv.org/abs/2006.04768) [[link_review]](https://www.youtube.com/watch?v=1ocEn9LdkAI)
 
