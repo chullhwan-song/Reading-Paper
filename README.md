@@ -331,13 +331,13 @@
 * Residual Attention Networks for Image Classification : [[paper]](https://arxiv.org/abs/1704.06904)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/35)
 * Attention is all you need  : [[paper]](https://arxiv.org/abs/1706.03762)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/54)[[link_review]](https://pozalabs.github.io/transformer/)
 * Residual Attention Network for Image Classification : [[paper]](https://arxiv.org/abs/1704.06904)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/102)
-* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
+* Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154) [[light_review]](https://velog.io/@changdaeoh/Stand-Alone-Self-Attention-in-Vision-Models-NIPS-2019-%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0) [[light_review]](https://cool24151.tistory.com/99) [[light_review]](https://seolhokim.github.io/deeplearning/2019/07/02/stand-alone-self-attention-in-vision-models-review/) [[light_review]](http://dsba.korea.ac.kr/seminar/?mod=document&uid=31) [[light_review]](https://dreambreaker-ds.tistory.com/entry/Stand-Alone-Self-Attention-in-Visual-Models)
 
 ## Visual & Textual Embedding
 * DeViSE: A Deep Visual-Semantic Embedding Model : [[paper]](https://research.google.com/pubs/pub41869.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/1)
 * Dual Attention Networks for Multimodal Reasoning and Matching : [[paper]](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiOl5Pj19LUAhVKvLwKHVpoDdcQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1611.00471&usg=AFQjCNEkNnTcTYyq7AI9uFuQKDHom0ai1w)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/21)
 * Learning Deep Structure-Preserving Image-Text Embeddings : [[paper]](https://arxiv.org/abs/1511.06078)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/26)
-* Learning Two-Branch Neural Networks for Image-Text Matching Tasks : [[paper]](https://arxiv.org/abs/1810.02443)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
+* Learning Two-Branch Neural Networks for Image-Text Matching Tasks : [[paper]](https://arxiv.org/abs/1810.02443) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
 
 ## Recommendation
 * FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
