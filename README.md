@@ -141,6 +141,7 @@
 * PSViT: Better Vision Transformer via Token Pooling and Attention Sharing : [[paper]](https://arxiv.org/abs/2108.03428)
 * Do Vision Transformers See Like Convolutional Neural Networks? : [[paper]](https://arxiv.org/abs/2108.08810)
 * Linformer: Self-Attention with Linear Complexity : [[paper]](https://arxiv.org/abs/2006.04768) [[link_review]](https://www.youtube.com/watch?v=1ocEn9LdkAI)
+* CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652) 
 
 
 ## Vision Transformers positional embedding
@@ -152,7 +153,6 @@
 * Rethinking Positional Encoding : [[paper]](https://arxiv.org/abs/2107.02561) 
 * Relative Positional Encoding for Transformers with Linear Complexity : [[paper]](https://arxiv.org/abs/2105.08399) 
 * Conditional Positional Encodings for Vision Transformers : [[paper]](https://arxiv.org/abs/2102.10882)
-* CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652) 
 
 
 ## Vision Transformers vs MLP
