@@ -269,6 +269,7 @@
 * The 2021 Image Similarity Dataset and Challenge : [[paper]](https://arxiv.org/abs/2106.09672)
 * DOLG:Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features : [[paper]](https://arxiv.org/abs/2108.02927)
 * Towards A Fairer Landmark Recognition Dataset : [[paper]](https://arxiv.org/abs/2108.08874)
+* Recall@k Surrogate Loss with Large Batches and Similarity Mixup : [[paper]](https://arxiv.org/abs/2108.11179)
 
 
 ## Metric Learning
