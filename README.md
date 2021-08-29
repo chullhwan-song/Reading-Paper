@@ -191,6 +191,7 @@
 * Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers : [[paper]](https://arxiv.org/abs/2108.06932)
 * Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
 * Conditional DETR for Fast Training Convergence : [[paper]](https://arxiv.org/abs/2108.06152)
+* Fully Transformer Networks for Semantic Image Segmentation : [[paper]](https://arxiv.org/abs/2106.04108)
 
 
 
