@@ -445,7 +445,7 @@
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection : [[paper]](https://arxiv.org/abs/1912.02424) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/304)
 * Oriented R-CNN for Object Detection : [[paper]](https://arxiv.org/abs/2108.05699)
 * CSPNet: A New Backbone that can Enhance Learning Capability of CNN : [[paper]](https://arxiv.org/abs/1911.11929)  [[link_review]](https://deep-learning-study.tistory.com/632)  [[link_review]](https://keyog.tistory.com/30)
-* 
+
 ## AutoML 
 * Learning Transferable Architectures for Scalable Image Recognition : [[paper]](https://arxiv.org/abs/1707.07012)[[link_review]](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
 
