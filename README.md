@@ -141,8 +141,8 @@
 * PSViT: Better Vision Transformer via Token Pooling and Attention Sharing : [[paper]](https://arxiv.org/abs/2108.03428)
 * Do Vision Transformers See Like Convolutional Neural Networks? : [[paper]](https://arxiv.org/abs/2108.08810)
 * Linformer: Self-Attention with Linear Complexity : [[paper]](https://arxiv.org/abs/2006.04768) [[link_review]](https://www.youtube.com/watch?v=1ocEn9LdkAI)
-* CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652) 
-
+* CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652)  
+* How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers : [[paper]](https://arxiv.org/abs/2106.10270)  
 
 ## Vision Transformers positional embedding
 * Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155) [[link_review]](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-19-07-09-7805d625562b47a2b308b5941ee717ae)
