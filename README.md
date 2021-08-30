@@ -430,6 +430,7 @@
 * YOLO: Real-Time Object Detection : [[paper]](https://arxiv.org/abs/1506.02640)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/5)
 * YOLO9000: Better, Faster, Stronger : [[paper]](https://arxiv.org/abs/1612.08242)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/42)
 * YOLOv4: Optimal Speed and Accuracy of Object Detection : [[paper]](https://arxiv.org/abs/2004.10934) [[link_review]](https://hoya012.github.io/blog/yolov4/) [[link_review]](https://jjeamin.github.io/darknet_book/part1_paper/yolov4.html) [[link_review]](https://keyog.tistory.com/31) [[link_review]](https://ropiens.tistory.com/33) [[link_review]](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dnjswns2280&logNo=222043364404)  [[link_review]](https://deep-learning-study.tistory.com/626)
+* Scaled-YOLOv4: Scaling Cross Stage Partial Network : [[paper]](https://arxiv.org/abs/2011.08036)
 * Faster R-CNN : [[paper]](https://arxiv.org/abs/1506.01497)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/46)
   * faster rcnn의 anchor generator 개념 뿐만 아니라 소스레벨에서도 이해하기 : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/184)
 * SSD: Single Shot MultiBox Detector : [[paper]](https://arxiv.org/abs/1512.02325)[[link_review]](https://www.youtube.com/watch?v=ej1ISEoAK5g&feature=youtu.be&fbclid=IwAR0hLTV5Vf9giN0utJ_2DtcoBJzkuO91-cTlR1UpPzlp38mD5KAOeqzKxJQ)
