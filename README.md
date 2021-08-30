@@ -360,8 +360,9 @@
 * Stand-Alone Self-Attention in Vision Models : [[paper]](https://arxiv.org/abs/1906.05909)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/154)
 * Selective Kernel Networks : [[paper]](https://arxiv.org/abs/1903.06586)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/232)
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1905.11946) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/255)
-* Self-training with Noisy Student improves ImageNet classification : [[paper]](https://arxiv.org/abs/1911.04252) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/246)
-* Selfie: Self-supervised Pretraining for Image Embedding : [[paper]](https://arxiv.org/abs/1906.02940) [[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/384)
+* CSPNet: A New Backbone that can Enhance Learning Capability of CNN : [[paper]](https://arxiv.org/abs/1911.11929)  [[link_review]](https://deep-learning-study.tistory.com/632)  [[link_review]](https://keyog.tistory.com/30)
+
+
 
 ## Transfer Learning
 * Taskonomy: Disentangling Task Transfer Learning : [[paper]](https://arxiv.org/abs/1804.08328)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/45)
