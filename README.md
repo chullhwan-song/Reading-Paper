@@ -285,7 +285,7 @@
 
 ## Fashion Compatibility 
 * FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
-* Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109)
+* Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109) [[light_review]](https://jihyejung-work.github.io/2021-06/Context-Aware-Visual-Compatibility-Prediction-%EB%85%BC%EB%AC%B8)
 * Learning Type-Aware Embeddings for Fashion Compatibility : [[paper]](https://arxiv.org/abs/1902.03646) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/360)
 * Self-supervised Visual Attribute Learning for Fashion Compatibility : [[paper]](https://arxiv.org/abs/2008.00348)
 
