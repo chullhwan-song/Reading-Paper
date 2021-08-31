@@ -341,9 +341,6 @@
 * Learning Deep Structure-Preserving Image-Text Embeddings : [[paper]](https://arxiv.org/abs/1511.06078)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/26)
 * Learning Two-Branch Neural Networks for Image-Text Matching Tasks : [[paper]](https://arxiv.org/abs/1810.02443) [[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
 
-## Recommendation
-* FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
-* Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109)
 
 ## CNN
 * Imagenet classification with deep convolutional neural networks : [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/6)
