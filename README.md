@@ -294,9 +294,17 @@
 * Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
 * Fashion-Gen: The Generative Fashion Dataset and Challenge : [[paper]](https://arxiv.org/abs/1806.08317)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/95)
 * DwNet: Dense warp-based network for pose-guided human video generation: [[paper]](https://arxiv.org/abs/1910.09139)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/233)
+* Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content : [[paper]](https://arxiv.org/abs/2003.05863) 
 * Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing : [[paper]](https://arxiv.org/abs/2104.07021) 
-
-
+* Down to the Last Detail: Virtual Try-on with Detail Carving : [[paper]](https://arxiv.org/abs/1912.06324) 
+* ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on : [[paper]](https://arxiv.org/abs/2012.10495) 
+* Toward Characteristic-Preserving Image-based Virtual Try-On Network : [[paper]](https://arxiv.org/abs/1807.07688) 
+* VITON: An Image-based Virtual Try-on Network : [[paper]](https://arxiv.org/abs/1711.08447) 
+* Parser-Free Virtual Try-on via Distilling Appearance Flows : [[paper]](https://arxiv.org/abs/2103.04559) 
+* Image Based Virtual Try-on Network from Unpaired Data : [[paper]](https://assets.amazon.science/1a/2b/7a4dd8264ce19a959559da799aff/scipub-1281.pdf) 
+* CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On : [[paper]](https://minar09.github.io/cpvtonplus/cvprw20_cpvtonplus.pdf) 
+* TryOnGAN: Body-Aware Try-On via Layered Interpolation : [[paper]](https://arxiv.org/abs/2101.02285) 
+* 
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
 * Feature Learning based Deep Supervised Hashing with Pairwise Labels : [[paper]](https://arxiv.org/abs/1511.03855)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/79)
