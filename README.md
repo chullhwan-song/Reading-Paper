@@ -304,7 +304,10 @@
 * Image Based Virtual Try-on Network from Unpaired Data : [[paper]](https://assets.amazon.science/1a/2b/7a4dd8264ce19a959559da799aff/scipub-1281.pdf) 
 * CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On : [[paper]](https://minar09.github.io/cpvtonplus/cvprw20_cpvtonplus.pdf) 
 * TryOnGAN: Body-Aware Try-On via Layered Interpolation : [[paper]](https://arxiv.org/abs/2101.02285) 
-* 
+* SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On : [[paper]](https://arxiv.org/abs/2001.06265) 
+* VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization : [[paper]](https://arxiv.org/abs/2103.16874) 
+
+
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
 * Feature Learning based Deep Supervised Hashing with Pairwise Labels : [[paper]](https://arxiv.org/abs/1511.03855)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/79)
