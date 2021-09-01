@@ -42,6 +42,7 @@
 * MoCo V3 : An Empirical Study of Training Self-Supervised Vision Transformers: [[paper]](https://arxiv.org/abs/2104.02057) [[link_review]](https://deep-learning-study.tistory.com/746) [[link_review]](https://rauleun.github.io/MoCo_v3)
 * BYOL : Bootstrap your own latent: A new approach to self-supervised Learning: [[paper]](https://arxiv.org/abs/1805.00932)
 * Exploring the limits of weakly supervised pretraining : [[paper]](https://arxiv.org/abs/1805.00932)
+* Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning : [[paper]](https://arxiv.org/abs/2107.10419)
 
 ## Vision Transformers  classification
 
@@ -194,7 +195,6 @@
 * Fully Transformer Networks for Semantic Image Segmentation : [[paper]](https://arxiv.org/abs/2106.04108)
 
 
-
 ## Vision Transformers video
 * An Image is Worth 16x16 Words, What is a Video Worth?: [[paper]](https://arxiv.org/abs/2103.13915)
 * Token Shift Transformer for Video Classification : [[paper]](https://arxiv.org/abs/2108.02432)
@@ -290,10 +290,11 @@
 * Self-supervised Visual Attribute Learning for Fashion Compatibility : [[paper]](https://arxiv.org/abs/2008.00348)
 
 
-## Fashion Generative Adversarial Nets
+## Fashion Generative Adversarial Nets & Try On
 * Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
 * Fashion-Gen: The Generative Fashion Dataset and Challenge : [[paper]](https://arxiv.org/abs/1806.08317)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/95)
 * DwNet: Dense warp-based network for pose-guided human video generation: [[paper]](https://arxiv.org/abs/1910.09139)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/233)
+* Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing : [[paper]](https://arxiv.org/abs/2104.07021) 
 
 
 ## Image Retrieval using Deep Hash
