@@ -305,7 +305,7 @@
 * CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On : [[paper]](https://minar09.github.io/cpvtonplus/cvprw20_cpvtonplus.pdf) 
 * TryOnGAN: Body-Aware Try-On via Layered Interpolation : [[paper]](https://arxiv.org/abs/2101.02285) 
 * SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On : [[paper]](https://arxiv.org/abs/2001.06265) 
-* VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization : [[paper]](https://arxiv.org/abs/2103.16874) 
+* VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization : [[paper]](https://arxiv.org/abs/2103.16874) [[link_review]](https://www.slideshare.net/ssusere1762e/cvpr-2021-vitonhd-highresolution-virtual-tryon-via-misalignmentaware-normalization?fbclid=IwAR2WR0MffkzBiR2LR9G9gZgknKJpChGwAFjCoxQP2IjfuqmhJnU3GvGEhe4) 
 
 
 ## Image Retrieval using Deep Hash
