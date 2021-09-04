@@ -287,7 +287,6 @@
 * Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109) [[light_review]](https://jihyejung-work.github.io/2021-06/Context-Aware-Visual-Compatibility-Prediction-%EB%85%BC%EB%AC%B8)
 * Learning Type-Aware Embeddings for Fashion Compatibility : [[paper]](https://arxiv.org/abs/1902.03646) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/360)
 * OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning : [[paper]](http://yusanlin.com/files/papers/www20_OutfitNet.pdf)
-* Toward Accurate and Realistic Outfits Visualization with Attention to Details : [[paper]](https://arxiv.org/abs/2106.06593) [[demo]](https://revery.ai/demo.html)
 
 
 ## Personalized Outfit Recommendation & fashion outfit
@@ -313,6 +312,8 @@
 * TryOnGAN: Body-Aware Try-On via Layered Interpolation : [[paper]](https://arxiv.org/abs/2101.02285) 
 * SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On : [[paper]](https://arxiv.org/abs/2001.06265) 
 * VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization : [[paper]](https://arxiv.org/abs/2103.16874) [[link_review]](https://www.slideshare.net/ssusere1762e/cvpr-2021-vitonhd-highresolution-virtual-tryon-via-misalignmentaware-normalization?fbclid=IwAR2WR0MffkzBiR2LR9G9gZgknKJpChGwAFjCoxQP2IjfuqmhJnU3GvGEhe4) 
+* Toward Accurate and Realistic Outfits Visualization with Attention to Details : [[paper]](https://arxiv.org/abs/2106.06593) [[demo]](https://revery.ai/demo.html)
+
 
 ## fashion multi-modal
 * Kaleido-BERT: Vision-Language Pre-training on Fashion Domain : [[paper]](https://arxiv.org/abs/2103.16110) 
