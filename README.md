@@ -283,11 +283,15 @@
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
 * Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
 
-## Fashion Compatibility 
-* FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
+## Fashion Compatibility & Outfit Recommendation
 * Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109) [[light_review]](https://jihyejung-work.github.io/2021-06/Context-Aware-Visual-Compatibility-Prediction-%EB%85%BC%EB%AC%B8)
 * Learning Type-Aware Embeddings for Fashion Compatibility : [[paper]](https://arxiv.org/abs/1902.03646) [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/360)
+
+## Personalized Outfit Recommendation 
+* FashionNet: Personalized Outfit Recommendation with Deep Neural Network: [[paper]](https://arxiv.org/abs/1612.06321)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/56)
 * Self-supervised Visual Attribute Learning for Fashion Compatibility : [[paper]](https://arxiv.org/abs/2008.00348)
+* Personalized Outfit Recommendation with Learnable Anchors : [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Personalized_Outfit_Recommendation_With_Learnable_Anchors_CVPR_2021_paper.pdf)
+* PAI-BPR: Personalized Outfit Recommendation Scheme with Attribute-wise Interpretability : [[paper]](https://arxiv.org/abs/2008.01780)
 
 
 ## Fashion Generative Adversarial Nets & Try On
