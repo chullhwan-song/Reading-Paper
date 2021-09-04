@@ -313,7 +313,7 @@
 * SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On : [[paper]](https://arxiv.org/abs/2001.06265) 
 * VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization : [[paper]](https://arxiv.org/abs/2103.16874) [[link_review]](https://www.slideshare.net/ssusere1762e/cvpr-2021-vitonhd-highresolution-virtual-tryon-via-misalignmentaware-normalization?fbclid=IwAR2WR0MffkzBiR2LR9G9gZgknKJpChGwAFjCoxQP2IjfuqmhJnU3GvGEhe4) 
 * Toward Accurate and Realistic Outfits Visualization with Attention to Details : [[paper]](https://arxiv.org/abs/2106.06593) [[demo]](https://revery.ai/demo.html)
-
+* Disentangled Cycle Consistency for Highly-realistic Virtual Try-On : [[paper]](https://arxiv.org/abs/2103.09479) 
 
 ## fashion multi-modal
 * Kaleido-BERT: Vision-Language Pre-training on Fashion Domain : [[paper]](https://arxiv.org/abs/2103.16110) 
