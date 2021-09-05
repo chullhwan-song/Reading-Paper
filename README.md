@@ -211,10 +211,10 @@
 * 2D Attentional Irregular Scene Text Recognizer : [[paper]](https://arxiv.org/abs/1906.05708)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/389)
 
 ## Vision Transformers multi-modal
-* Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
 * ReFormer: The Relational Transformer for Image Captioning : [[paper]](https://arxiv.org/abs/2107.14178)
 * Long-Short Transformer: Efficient Transformers for Language and Vision : [[paper]](https://arxiv.org/abs/2107.02192)
 
+ 
 ## Vision Transformers GAN
 * A Hierarchical Transformation-Discriminating Generative Model for Few Shot Anomaly Detection : [[paper]](https://arxiv.org/abs/2104.14535)
 * ViTGAN: Training GANs with Vision Transformers : [[paper]](https://arxiv.org/abs/2107.04589)
@@ -253,7 +253,6 @@
 * Class-Weighted Convolutional Features for Image Retrieval : [[paper]](https://arxiv.org/abs/1707.02581)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/231) # 100th
 * deep image retrieval loss (계속 업데이트):[[paper]](https://github.com/chullhwan-song/Reading-Paper/issues/148)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/181)
 * Matchable Image Retrieval by Learning from Surface Reconstruction:[[paper]](https://arxiv.org/abs/1811.10343)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/269)
-* Regional Maximum Activations of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval:[[paper]](https://dl.acm.org/citation.cfm?id=3266436)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/270)
 * Combination of Multiple Global Descriptors for Image Retrieval:[[paper]](https://arxiv.org/abs/1903.10663)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/313)
 * Unifying Deep Local and Global Features for Efficient Image Search:[[paper]](https://arxiv.org/abs/2001.05027)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/290)
 * ACTNET: end-to-end learning of feature activations and multi-stream aggregation for effective instance image retrieval:[[paper]](https://arxiv.org/abs/1907.05794)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/351)
@@ -265,8 +264,6 @@
 * Divide and Conquer the Embedding Space for Metric Learning: [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/387)
 * An Effective Pipeline for a Real-world Clothes Retrieval System: [[paper]](https://arxiv.org/abs/2005.12739)[[light_review]](https://github.com/chullhwan-song/Reading-Paper/issues/386)
 * Instance Similarity Learning for Unsupervised Feature Representation : [[paper]](https://arxiv.org/abs/2108.02721)
-* Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
-* eProduct: A Million-Scale Visual Search Benchmark to Address Product Recognition Challenges : [[paper]](https://arxiv.org/abs/2107.05856)
 * Towards Accurate Localization by Instance Search : [[paper]](https://arxiv.org/abs/2107.05005)
 * The 2021 Image Similarity Dataset and Challenge : [[paper]](https://arxiv.org/abs/2106.09672)
 * DOLG:Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features : [[paper]](https://arxiv.org/abs/2108.02927)
@@ -323,6 +320,15 @@
 
 ## Fashion DataSets
 * SHIFT15M: Multiobjective Large-Scale Fashion Dataset with Distributional Shifts : [[paper]](https://arxiv.org/abs/2108.12992v1) 
+
+
+## Retail & Product
+* Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
+* RP2K: A Large-Scale Retail Product Dataset for Fine-Grained Image Classification : [[paper]](https://arxiv.org/abs/2006.12634) 
+* eProduct: A Million-Scale Visual Search Benchmark to Address Product Recognition Challenges : [[paper]](https://arxiv.org/abs/2107.05856)
+* Regional Maximum Activations of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval:[[paper]](https://dl.acm.org/citation.cfm?id=3266436)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/270)
+* Learning visual similarity for product design with convolutional neural networks : [[paper]](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/7) 
+* Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
 
 
 ## Image Retrieval using Deep Hash
