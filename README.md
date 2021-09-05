@@ -317,9 +317,11 @@
 * Toward Accurate and Realistic Outfits Visualization with Attention to Details : [[paper]](https://arxiv.org/abs/2106.06593) [[demo]](https://revery.ai/demo.html)
 * Disentangled Cycle Consistency for Highly-realistic Virtual Try-On : [[paper]](https://arxiv.org/abs/2103.09479) 
 
-## fashion multi-modal
+## Fashion multi-modal
 * Kaleido-BERT: Vision-Language Pre-training on Fashion Domain : [[paper]](https://arxiv.org/abs/2103.16110) 
 * Fashion IQ: A New Dataset Towards Retrieving Images by Natural Language Feedback : [[paper]](https://arxiv.org/abs/1905.12794) 
+
+## Fashion DataSets
 * SHIFT15M: Multiobjective Large-Scale Fashion Dataset with Distributional Shifts : [[paper]](https://arxiv.org/abs/2108.12992v1) 
 
 
