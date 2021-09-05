@@ -26,7 +26,7 @@
 ## Efficient training & trick
 * Bag of Tricks for Image Classification with Convolutional Neural Networks : [[paper]](https://arxiv.org/abs/1812.01187) [[link_review]](https://phil-baek.tistory.com/entry/CNN-%EA%BF%80%ED%8C%81-Bag-of-Tricks-for-Image-Classification-with-Convolutional-Neural-Networks-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0) [[link_review]](https://hoya012.github.io/blog/Bag-of-Tricks-for-Image-Classification-with-Convolutional-Neural-Networks-Review/) [[link_review]](https://deep-learning-study.tistory.com/569) [[link_review]](https://go-hard.tistory.com/71) [[link_review]](https://velog.io/@ghgh5317/Bag-of-Tricks-for-Image-Classification-with-Convolutional-Neural-Networks-review) [[link_review]](https://blog.airlab.re.kr/2019/07/bag-of-trick) [[link_review]](https://www.slideshare.net/gohyunwoong/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-cvpr-2019-paper-review)
 
-# Imbalance Datasets
+## Imbalance Datasets
 
 ## Self Supervised Learninig & unsupervised learning & semi/Weakly supervised learning
 * Unsupervised Representation Learning by Predicting Image Rotations  : [[paper]](https://arxiv.org/abs/1803.07728)[[]](https://github.com/chullhwan-song/Reading-Paper/issues/393)
