@@ -43,6 +43,8 @@
 * BYOL : Bootstrap your own latent: A new approach to self-supervised Learning: [[paper]](https://arxiv.org/abs/1805.00932)
 * Exploring the limits of weakly supervised pretraining : [[paper]](https://arxiv.org/abs/1805.00932)
 * Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning : [[paper]](https://arxiv.org/abs/2107.10419)
+* ScatSimCLR: self-supervised contrastive learning with pretext task regularization for small-scale datasets : [[paper]](https://arxiv.org/abs/2108.13939)
+
 
 ## Vision Transformers  classification
 
@@ -145,6 +147,7 @@
 * CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652)  
 * How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers : [[paper]](https://arxiv.org/abs/2106.10270)  
 * Searching for Efficient Multi-Stage Vision Transformers : [[paper]](https://arxiv.org/abs/2109.00642)  
+* Exploring and Improving Mobile Level Vision Transformers : [[paper]](https://arxiv.org/abs/2108.13015)  
 
 ## Vision Transformers positional embedding
 * Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155) [[link_review]](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-19-07-09-7805d625562b47a2b308b5941ee717ae)
