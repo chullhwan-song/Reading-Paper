@@ -144,6 +144,7 @@
 * Linformer: Self-Attention with Linear Complexity : [[paper]](https://arxiv.org/abs/2006.04768) [[link_review]](https://www.youtube.com/watch?v=1ocEn9LdkAI)
 * CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows : [[paper]](https://arxiv.org/abs/2107.00652)  
 * How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers : [[paper]](https://arxiv.org/abs/2106.10270)  
+* Searching for Efficient Multi-Stage Vision Transformers : [[paper]](https://arxiv.org/abs/2109.00642)  
 
 ## Vision Transformers positional embedding
 * Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155) [[link_review]](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-19-07-09-7805d625562b47a2b308b5941ee717ae)
@@ -193,6 +194,7 @@
 * Unifying Global-Local Representations in Salient Object Detection with Transformer : [[paper]](https://arxiv.org/abs/2108.02759)
 * Conditional DETR for Fast Training Convergence : [[paper]](https://arxiv.org/abs/2108.06152)
 * Fully Transformer Networks for Semantic Image Segmentation : [[paper]](https://arxiv.org/abs/2106.04108)
+* Segmenter: Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2105.05633)
 
 
 ## Vision Transformers video
@@ -318,6 +320,7 @@
 ## fashion multi-modal
 * Kaleido-BERT: Vision-Language Pre-training on Fashion Domain : [[paper]](https://arxiv.org/abs/2103.16110) 
 * Fashion IQ: A New Dataset Towards Retrieving Images by Natural Language Feedback : [[paper]](https://arxiv.org/abs/1905.12794) 
+* SHIFT15M: Multiobjective Large-Scale Fashion Dataset with Distributional Shifts : [[paper]](https://arxiv.org/abs/2108.12992v1) 
 
 
 ## Image Retrieval using Deep Hash
