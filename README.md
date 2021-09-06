@@ -149,6 +149,8 @@
 * How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers : [[paper]](https://arxiv.org/abs/2106.10270)  
 * Searching for Efficient Multi-Stage Vision Transformers : [[paper]](https://arxiv.org/abs/2109.00642)  
 * Exploring and Improving Mobile Level Vision Transformers : [[paper]](https://arxiv.org/abs/2108.13015)  
+* XCiT: Cross-Covariance Image Transformers : [[paper]](https://arxiv.org/abs/2106.09681)  
+
 
 ## Vision Transformers positional embedding
 * Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155) [[link_review]](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-19-07-09-7805d625562b47a2b308b5941ee717ae)
