@@ -153,6 +153,7 @@
 * Searching for Efficient Multi-Stage Vision Transformers : [[paper]](https://arxiv.org/abs/2109.00642)  
 * Exploring and Improving Mobile Level Vision Transformers : [[paper]](https://arxiv.org/abs/2108.13015)  
 * XCiT: Cross-Covariance Image Transformers : [[paper]](https://arxiv.org/abs/2106.09681)  
+* Efficient Vision Transformers via Fine-Grained Manifold Distillation : [[paper]](https://arxiv.org/abs/2107.01378)
 
 
 ## Vision Transformers positional embedding
