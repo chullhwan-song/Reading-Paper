@@ -207,6 +207,7 @@
 * Conditional DETR for Fast Training Convergence : [[paper]](https://arxiv.org/abs/2108.06152)
 * Fully Transformer Networks for Semantic Image Segmentation : [[paper]](https://arxiv.org/abs/2106.04108)
 * Segmenter: Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2105.05633)
+* nnFormer: Interleaved Transformer for Volumetric Segmentation : [[paper]](https://arxiv.org/abs/2109.03201)
 
 
 ## Vision Transformers video
