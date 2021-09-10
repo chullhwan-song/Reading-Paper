@@ -154,6 +154,7 @@
 * Exploring and Improving Mobile Level Vision Transformers : [[paper]](https://arxiv.org/abs/2108.13015)  
 * XCiT: Cross-Covariance Image Transformers : [[paper]](https://arxiv.org/abs/2106.09681)  
 * Efficient Vision Transformers via Fine-Grained Manifold Distillation : [[paper]](https://arxiv.org/abs/2107.01378)
+* Scaled ReLU Matters for Training Vision Transformers : [[paper]](https://arxiv.org/abs/2109.03810)
 
 
 ## Vision Transformers positional embedding
