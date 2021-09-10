@@ -175,6 +175,8 @@
 * Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet: [[paper]](https://arxiv.org/abs/2105.02723)
 * MLP-Mixer: An all-MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2105.01601)
 * Sparse-MLP: A Fully-MLP Architecture with Conditional Computation : [[paper]](https://arxiv.org/abs/2109.02008) 
+* ConvMLP: Hierarchical Convolutional MLPs for Vision : [[paper]](https://arxiv.org/abs/2109.04454) 
+
 
 ## Vision Transformers retrieval 
 * Investigating the Vision Transformer Model for Image Retrieval Tasks: [[paper]](https://arxiv.org/abs/2101.03771)
