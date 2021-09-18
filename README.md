@@ -155,6 +155,8 @@
 * XCiT: Cross-Covariance Image Transformers : [[paper]](https://arxiv.org/abs/2106.09681)  
 * Efficient Vision Transformers via Fine-Grained Manifold Distillation : [[paper]](https://arxiv.org/abs/2107.01378)
 * Scaled ReLU Matters for Training Vision Transformers : [[paper]](https://arxiv.org/abs/2109.03810)
+* VOLO: Vision Outlooker for Visual Recognition : [[paper]](https://arxiv.org/abs/2106.13112)
+* CoAtNet: Marrying Convolution and Attention for All Data Sizes : [[paper]](https://arxiv.org/abs/2106.04803)
 
 
 ## Vision Transformers positional embedding
@@ -177,6 +179,7 @@
 * MLP-Mixer: An all-MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2105.01601)
 * Sparse-MLP: A Fully-MLP Architecture with Conditional Computation : [[paper]](https://arxiv.org/abs/2109.02008) 
 * ConvMLP: Hierarchical Convolutional MLPs for Vision : [[paper]](https://arxiv.org/abs/2109.04454) 
+* Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition : [[paper]](https://arxiv.org/abs/2106.12368) 
 
 
 ## Vision Transformers retrieval 
