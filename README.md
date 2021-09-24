@@ -1,4 +1,4 @@
-*Update 2021.09.10*
+*Update 2021.09.24*
 
 # Paper Review 
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
@@ -66,7 +66,7 @@
 * CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification : [[paper]](https://arxiv.org/abs/2103.14899)
 * CvT: Introducing Convolutions to Vision Transformers: [[paper]](https://arxiv.org/abs/2103.15808)  [[link_review]](https://deep-learning-study.tistory.com/816) 
 * Efficient Feature Transformations for Discriminative and Generative Continual Learning : [[paper]](https://arxiv.org/abs/2103.13558)
-* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows : [[paper]](https://arxiv.org/abs/2103.14030) [[link_review]](https://deep-learning-study.tistory.com/728) [[link_review]](http://dsba.korea.ac.kr/seminar/?mod=document&uid=1793) 
+* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows : [[paper]](https://arxiv.org/abs/2103.14030) [[link_review]](https://deep-learning-study.tistory.com/728) [[link_review]](http://dsba.korea.ac.kr/seminar/?mod=document&uid=1793) [[link_review]](https://visionhong.tistory.com/31) 
 * Can Vision Transformers Learn without Natural Images?: [[paper]](https://arxiv.org/abs/2103.13023)
 * Scaling Local Self-Attention for Parameter Efficient Visual Backbones: [[paper]](https://arxiv.org/abs/2103.12731)
 * Incorporating Convolution Designs into Visual Transformers : [[paper]](https://arxiv.org/abs/2103.11816)
