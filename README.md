@@ -189,6 +189,7 @@
 * Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval: [[paper]](https://arxiv.org/abs/2103.11920)
 * TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval : [[paper]](https://arxiv.org/abs/2105.01823)
 * Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations : [[paper]](https://arxiv.org/abs/2108.05887)
+* Vision Transformer Hashing for Image Retrieval : [[paper]](https://arxiv.org/abs/2109.12564)
 
 ## Vision Transformers segmentation and detection
 * CoSformer: Detecting Co-Salient Object with Transformers: [[paper]](https://arxiv.org/abs/2104.14729)
