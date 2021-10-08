@@ -301,6 +301,7 @@
 ## Fashion Image Retrieval
 * Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling : [[paper]](https://arxiv.org/abs/1810.04652)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/55)
 * Conditional Similarity Networks : [[paper]](https://arxiv.org/abs/1603.07810)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/15)
+* Semi-supervised Feature-Level Attribute Manipulation for Fashion Image Retrieval : [[paper]](https://arxiv.org/abs/1907.05007)[[link_review]](https://www.notion.so/Semi-supervised-Feature-Level-Attribute-Manipulation-for-Fashion-Image-Retrieval-2e8b784838d94f8a908849b987f539e0)
 
 ## Fashion Compatibility & Outfit Recommendation
 * Context-Aware Visual Compatibility Prediction: [[paper]](https://arxiv.org/abs/1902.03646)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/109) [[light_review]](https://jihyejung-work.github.io/2021-06/Context-Aware-Visual-Compatibility-Prediction-%EB%85%BC%EB%AC%B8)
