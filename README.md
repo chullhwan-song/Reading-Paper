@@ -157,6 +157,8 @@
 * Scaled ReLU Matters for Training Vision Transformers : [[paper]](https://arxiv.org/abs/2109.03810)
 * VOLO: Vision Outlooker for Visual Recognition : [[paper]](https://arxiv.org/abs/2106.13112)
 * CoAtNet: Marrying Convolution and Attention for All Data Sizes : [[paper]](https://arxiv.org/abs/2106.04803) [[link_review]](https://creamnuts.github.io/short%20review/coatnet/) [[link_review]](http://iislab.skku.edu/iish/seminar/53516) 
+* MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer : [[paper]](https://arxiv.org/abs/2110.02178)
+* A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition : [[paper]](https://arxiv.org/abs/2110.01240)
 
 
 ## Vision Transformers positional embedding
