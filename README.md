@@ -1,4 +1,4 @@
-*Update 2021.10.08*
+*Update 2021.11.24*
 
 # Paper Review 
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
@@ -172,7 +172,7 @@
 * Conditional Positional Encodings for Vision Transformers : [[paper]](https://arxiv.org/abs/2102.10882)
 
 
-## Vision Transformers vs MLP
+## Vision Transformers vs MLP (or Others)
 * AS-MLP: An Axial Shifted MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2107.08391) 
 * S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision : [[paper]](https://arxiv.org/abs/2108.01072)
 * ResMLP: Feedforward networks for image classification with data-efficient training: [[paper]](https://arxiv.org/abs/2105.03404)
@@ -182,6 +182,7 @@
 * Sparse-MLP: A Fully-MLP Architecture with Conditional Computation : [[paper]](https://arxiv.org/abs/2109.02008) 
 * ConvMLP: Hierarchical Convolutional MLPs for Vision : [[paper]](https://arxiv.org/abs/2109.04454) 
 * Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition : [[paper]](https://arxiv.org/abs/2106.12368) 
+* MetaFormer is Actually What You Need for Vision : [[paper]](https://arxiv.org/abs/2111.11418)  
 
 
 ## Vision Transformers retrieval 
