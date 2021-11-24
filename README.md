@@ -216,7 +216,7 @@
 * Fully Transformer Networks for Semantic Image Segmentation : [[paper]](https://arxiv.org/abs/2106.04108)
 * Segmenter: Transformer for Semantic Segmentation : [[paper]](https://arxiv.org/abs/2105.05633)
 * nnFormer: Interleaved Transformer for Volumetric Segmentation : [[paper]](https://arxiv.org/abs/2109.03201)
-
+* Benchmarking Detection Transfer Learning with Vision Transformers : [[paper]](https://arxiv.org/abs/2111.11429)
 
 ## Vision Transformers video
 * An Image is Worth 16x16 Words, What is a Video Worth?: [[paper]](https://arxiv.org/abs/2103.13915)
