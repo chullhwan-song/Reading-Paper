@@ -1,4 +1,4 @@
-*Update 2021.11.24*
+*Update 2021.12.13*
 
 # Paper Review 
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
@@ -49,6 +49,13 @@
 * Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning : [[paper]](https://arxiv.org/abs/2107.10419)
 * ScatSimCLR: self-supervised contrastive learning with pretext task regularization for small-scale datasets : [[paper]](https://arxiv.org/abs/2108.13939)
 
+## Self Supervised Training + Mask based Token + Transformer
+* MST: Masked Self-Supervised Transformer for Visual Representation : [[paper]](https://arxiv.org/abs/2106.05656) 
+* Masked Autoencoders Are Scalable Vision Learners : [[paper]](https://arxiv.org/abs/2111.06377) 
+* SimMIM: A Simple Framework for Masked Image Modeling : [[paper]](https://arxiv.org/abs/2111.09886)
+
+## Self Supervised Training + Instance Image Retrival
+* InsCLR: Improving Instance Retrieval with Self-Supervision : [[paper]](https://arxiv.org/abs/2112.01390)
 
 ## Vision Transformers  classification
 
