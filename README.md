@@ -247,8 +247,12 @@
 * A Hierarchical Transformation-Discriminating Generative Model for Few Shot Anomaly Detection : [[paper]](https://arxiv.org/abs/2104.14535)
 * ViTGAN: Training GANs with Vision Transformers : [[paper]](https://arxiv.org/abs/2107.04589)
 * Styleformer: Transformer based Generative Adversarial Networks with Style Vector : [[paper]](https://arxiv.org/abs/2106.07023)
-* Combining Transformer Generators with Convolutional Discriminators: [[paper]](https://arxiv.org/abs/2105.10189)
+* Combining Transformer Generators with Convolutional Discriminators : [[paper]](https://arxiv.org/abs/2105.10189)
 
+## Facebook AI Image Similarity Challenge
+* 3rd Place: A Global and Local Dual Retrieval Solution to Facebook AI Image Similarity Challenge : [[paper]](https://arxiv.org/abs/2112.02373)
+
+## Google Landmark Challenge
 
 ## [Image Retrieval](https://github.com/chullhwan-song/Image-Retrieval) (Instance level Image Retrieval) & Deep Feature 
 * (My paper) All the attention you need: Global-local, spatial-channel attention for image retrieval : [[paper]](https://arxiv.org/abs/2107.08000)
