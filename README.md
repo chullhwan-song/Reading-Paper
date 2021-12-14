@@ -166,7 +166,7 @@
 * CoAtNet: Marrying Convolution and Attention for All Data Sizes : [[paper]](https://arxiv.org/abs/2106.04803) [[link_review]](https://creamnuts.github.io/short%20review/coatnet/) [[link_review]](http://iislab.skku.edu/iish/seminar/53516) 
 * MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer : [[paper]](https://arxiv.org/abs/2110.02178)
 * A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition : [[paper]](https://arxiv.org/abs/2110.01240)
-
+* Improved Multiscale Vision Transformers for Classification and Detection : [[paper]](https://arxiv.org/abs/2112.01526)
 
 ## Vision Transformers positional embedding
 * Self-Attention with Relative Position Representations : [[paper]](https://arxiv.org/abs/1803.02155) [[link_review]](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-19-07-09-7805d625562b47a2b308b5941ee717ae)
@@ -177,6 +177,11 @@
 * Rethinking Positional Encoding : [[paper]](https://arxiv.org/abs/2107.02561) 
 * Relative Positional Encoding for Transformers with Linear Complexity : [[paper]](https://arxiv.org/abs/2105.08399) 
 * Conditional Positional Encodings for Vision Transformers : [[paper]](https://arxiv.org/abs/2102.10882)
+* Pyramid Adversarial Training Improves ViT Performance : [[paper]](https://arxiv.org/abs/2111.15121)
+* Shunted Self-Attention via Multi-Scale Token Aggregation : [[paper]](https://arxiv.org/abs/2111.15193)
+* AdaViT: Adaptive Vision Transformers for Efficient Image Recognition : [[paper]](https://arxiv.org/abs/2111.15668)
+* ATS: Adaptive Token Sampling For Efficient Vision Transformers : [[paper]](https://arxiv.org/abs/2111.15667)
+* Global Interaction Modelling in Vision Transformer via Super Tokens : [[paper]](https://arxiv.org/abs/2111.13156)
 
 
 ## Vision Transformers vs MLP (or Others)
@@ -190,7 +195,7 @@
 * ConvMLP: Hierarchical Convolutional MLPs for Vision : [[paper]](https://arxiv.org/abs/2109.04454) 
 * Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition : [[paper]](https://arxiv.org/abs/2106.12368) 
 * MetaFormer is Actually What You Need for Vision : [[paper]](https://arxiv.org/abs/2111.11418)  
-
+* Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers : [[paper]](https://arxiv.org/abs/2111.13587) * 
 
 ## Vision Transformers retrieval 
 * Investigating the Vision Transformer Model for Image Retrieval Tasks: [[paper]](https://arxiv.org/abs/2101.03771)
@@ -355,14 +360,14 @@
 * SHIFT15M: Multiobjective Large-Scale Fashion Dataset with Distributional Shifts : [[paper]](https://arxiv.org/abs/2108.12992v1) 
 
 
-## Retail & Product
+## Retail & Product & Instance
 * Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
 * RP2K: A Large-Scale Retail Product Dataset for Fine-Grained Image Classification : [[paper]](https://arxiv.org/abs/2006.12634) 
 * eProduct: A Million-Scale Visual Search Benchmark to Address Product Recognition Challenges : [[paper]](https://arxiv.org/abs/2107.05856)
 * Regional Maximum Activations of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval:[[paper]](https://dl.acm.org/citation.cfm?id=3266436)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/270)
 * Learning visual similarity for product design with convolutional neural networks : [[paper]](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/7) 
 * Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretrainingr : [[paper]](https://arxiv.org/abs/2107.14572)
-
+* he Met Dataset: Instance-level Recognition for Artworks : [[paper]](https://openreview.net/pdf?id=fnuAjFL7MXy)
 
 ## Image Retrieval using Deep Hash
 * Deep Learning of Binary Hash Codes for Fast Image Retrieval : [[paper]](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/78)
