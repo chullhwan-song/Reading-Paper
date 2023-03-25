@@ -1,4 +1,4 @@
-*Update 2021.12.13*
+*Update 2023.03.25*
 
 # Paper Review 
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
@@ -20,6 +20,8 @@
 * Knowledge distillation: A good teacher is patient and consistent : [[paper]](https://arxiv.org/abs/2106.05237)
 * Hierarchical Self-supervised Augmented Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.13715)
 * Text is Text, No Matter What: Unifying Text Recognition using Knowledge Distillation : [[paper]](https://arxiv.org/abs/2107.12087)
+
+## [Vision and Language Pre-trained](https://github.com/chullhwan-song/Reading-Paper-VL)
 
 ## CLIP & joined multi-modal
 * CLIP : Learning Transferable Visual Models From Natural Language Supervision : [[paper]](https://arxiv.org/abs/2103.00020) [[link_review]](https://medium.com/lunit/clip-leveraging-the-power-of-a-large-image-text-paired-dataset-for-zero-shot-learning-2e8045962403) [[link_review]](https://icml.cc/media/icml-2021/Slides/9193.pdf)  [[link_review]](https://inst.eecs.berkeley.edu/~cs188/sp21/assets/slides/adv_iii_clip.pdf) [[link_review]](https://ai-information.blogspot.com/2021/07/nl-118-cv.html) [[link_review]](https://simonezz.tistory.com/m/88) [[link_review]](https://inforience.net/2021/02/09/clip_visual-model_pre_training/) [[link_review]](https://medium.com/@mk.minchul)  [[link_review]](https://jiho-ml.com/weekly-nlp-42/) [[link_review]](https://vitalab.github.io/article/2021/04/02/Clip.html) [[link_review]](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2) [[link_review]](https://dealicious-inc.github.io/2021/03/22/learning-transferable-visual-models.html)
