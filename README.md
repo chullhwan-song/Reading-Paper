@@ -1,3 +1,5 @@
+New Study : https://www.notion.so/Reading-Papers-Deep-Learning-504b50ddaed14360b34dfd6d49cb3455
+
 *Update 2023.03.25*
 
 # Paper Review 
