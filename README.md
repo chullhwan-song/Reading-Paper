@@ -1,6 +1,6 @@
 New Study : https://www.notion.so/Reading-Papers-Deep-Learning-504b50ddaed14360b34dfd6d49cb3455
 
-*Update 2023.03.25*
+*Update 2023.12.17*
 
 # Paper Review 
 * **개인 공부**라 열심히는 하고 있으나, 완벽한 리뷰가 아닙니다. 
@@ -8,6 +8,8 @@ New Study : https://www.notion.so/Reading-Papers-Deep-Learning-504b50ddaed14360b
 * link review는 다른 분들이 하신 좋은 리뷰를 링크한 것입니다.
 * light_link는 빠르게 개념(abstract)정도로 본 논문을 의미.
 * 현재 상황이 리뷰 공개를 못하고 있는 상황이라, 논문 링크로만 정리진행합니다.
+
+## Asymmetric Image Retrieval [[Link]](https://github.com/chullhwan-song/AsymmetricImageRetrieval)
 
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
