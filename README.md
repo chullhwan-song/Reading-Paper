@@ -14,6 +14,8 @@ New Study : https://www.notion.so/Reading-Papers-Deep-Learning-504b50ddaed14360b
 
 ## Asymmetric Image Retrieval [[Link]](https://github.com/chullhwan-song/AsymmetricImageRetrieval)
 
+## Diffusion [[Link]](https://github.com/chullhwan-song/Reading-Paper-Diffusion-Model)
+
 ## Deep Learning
 * Revisiting Small Batch Training for Deep Neural Networks : [[paper]](https://arxiv.org/abs/1804.07612)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/12) 
 * Weight Standardization : [[paper]](https://arxiv.org/abs/1903.10520)[[link_review]](https://github.com/chullhwan-song/Reading-Paper/issues/140) [[link_review]](https://drive.google.com/file/d/1mRRYBSPVW2nM6erCFsAAL7AoGBJefl9i/view?usp=sharing) 
